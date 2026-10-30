@@ -1,0 +1,81 @@
+# Environment & Secrets
+.env
+.env.backup
+.env.production
+.env.*.local
+*.key
+*.pem
+/auth.json
+
+# Database & Logs
+*.log
+*.sql
+*.sqlite
+*.dump
+
+# Dependencies
+/node_modules
+/vendor
+
+# Temporary, Scratch & Build Output
+/scratch/
+/output/
+/tmp/
+audit_report.json
+download_media.php
+scrape_generator.php
+inspect_components.php
+
+# Scraped / Raw Import Artifacts in Storage
+/storage/*.json
+/storage/*.cjs
+/storage/*.txt
+/storage/components_js/
+
+# Framework Runtime Storage
+/storage/framework/cache/data/*
+!/storage/framework/cache/data/.gitignore
+/storage/framework/cache/locks/*
+!/storage/framework/cache/locks/.gitignore
+/storage/framework/views/*
+!/storage/framework/views/.gitignore
+/storage/framework/sessions/*
+!/storage/framework/sessions/.gitignore
+/storage/framework/testing/*
+!/storage/framework/testing/.gitignore
+/storage/logs/*
+!/storage/logs/.gitignore
+/storage/*.key
+/storage/pail
+
+# Vite & Development Assets
+/public/hot
+/public/fonts-manifest.dev.json
+# Note: /public/build is tracked for shared hosting deployment without Node.js
+
+# Public Storage (Tracked for shared hosting deployment)
+!/public/storage
+!/public/storage/media
+!/public/storage/media/**
+!/public/storage/uploads
+!/public/storage/uploads/**
+!/public/storage/.htaccess
+
+# Testing & Tools Cache
+.phpunit.result.cache
+/.phpunit.cache
+.phpactor.json
+_ide_helper.php
+Homestead.json
+Homestead.yaml
+
+# IDE & OS Artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+/.codex
+/.cursor/
+/.idea
+/.nova
+/.vscode
+/.zed
