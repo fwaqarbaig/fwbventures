@@ -26,7 +26,10 @@ DirectoryIndex public/index.php index.php
     RewriteCond %{THE_REQUEST} \s/+public(?:/([^\s?]*))? [NC]
     RewriteRule ^ /%1 [R=301,L,NE]
 
-    # 5. Transparently forward all non-public requests into the public/ directory
+    # 5. Route /storage requests directly to public/storage/ so root storage/.htaccess does not block them
+    RewriteRule ^storage/(.*)$ public/storage/$1 [L]
+
+    # 6. Transparently forward all non-public requests into the public/ directory
     # Static files (images, css, js, storage) and application routes are handled inside public/.htaccess
     RewriteCond %{REQUEST_URI} !^/public/
     RewriteRule ^(.*)$ public/$1 [L]

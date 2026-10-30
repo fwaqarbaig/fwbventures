@@ -145,7 +145,7 @@
                 <!-- Brand Logo (FWB Ventures) -->
                 <div class="flex items-center gap-6 xl:gap-8">
                     <a href="{{ route('home') }}" class="flex items-center shrink-0 py-1 group">
-                        <img src="{{ asset(ltrim($siteLogo ?? '/images/fwb-logo.svg', '/')) }}" 
+                        <img src="{{ str_starts_with($siteLogo ?? '', 'http') ? $siteLogo : asset(ltrim($siteLogo ?? '/images/fwb-logo.svg', '/')) }}" 
                              alt="{{ $siteTitle ?? config('app.name', 'FWB Ventures') }}" 
                              style="height: {{ $logoHeightDesktop ?? 44 }}px; width: auto;"
                              class="max-w-[280px] object-contain transition-all">
@@ -448,7 +448,7 @@
                 <!-- Col 1: Brand & Heritage -->
                 <div class="space-y-4 lg:col-span-2">
                     <a href="{{ route('home') }}" class="inline-flex items-center">
-                        <img src="{{ asset(ltrim($siteLogoWhite ?? '/images/fwb-logo-white.svg', '/')) }}" 
+                        <img src="{{ str_starts_with($siteLogoWhite ?? '', 'http') ? $siteLogoWhite : asset(ltrim($siteLogoWhite ?? '/images/fwb-logo-white.svg', '/')) }}" 
                              alt="{{ $siteTitle ?? config('app.name', 'FWB Ventures') }}" 
                              style="height: {{ $logoHeightFooter ?? 40 }}px; width: auto;"
                              class="max-w-[260px] object-contain transition-all">

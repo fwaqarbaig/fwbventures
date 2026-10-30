@@ -65,18 +65,49 @@ class AppServiceProvider extends ServiceProvider
         });
 
         View::composer('*', function ($view) {
-            $siteLogo = asset('images/fwb-logo.svg');
-            $siteLogoWhite = asset('images/fwb-logo-white.svg');
+            $defaultLogo = asset('images/fwb-logo.svg');
+            $defaultLogoWhite = asset('images/fwb-logo-white.svg');
             $siteFavicon = asset('favicon.svg');
             $logoHeightDesktop = 44;
             $logoHeightMobile = 36;
             $logoHeightFooter = 40;
             $siteTitle = config('app.name', 'FWB Ventures');
 
+            $resolveLogoAsset = function (?string $rawPath, string $fallbackUrl): string {
+                if (empty($rawPath)) {
+                    return $fallbackUrl;
+                }
+
+                $clean = (string) preg_replace('#^https?://[^/]+/#', '/', $rawPath);
+                $clean = ltrim($clean, '/');
+
+                if ($clean === '') {
+                    return $fallbackUrl;
+                }
+
+                // 1. Direct match in public directory
+                if (file_exists(public_path($clean))) {
+                    return asset($clean);
+                }
+
+                // 2. Storage asset match (public/storage or storage/app/public)
+                if (str_starts_with($clean, 'storage/')) {
+                    $subPath = substr($clean, 8);
+                    if (file_exists(public_path('storage/'.$subPath)) || file_exists(storage_path('app/public/'.$subPath))) {
+                        return asset($clean);
+                    }
+                }
+
+                return $fallbackUrl;
+            };
+
+            $siteLogo = $defaultLogo;
+            $siteLogoWhite = $defaultLogoWhite;
+
             if (Schema::hasTable('settings')) {
-                $siteLogo = Setting::get('site_logo', $siteLogo);
-                $siteLogoWhite = Setting::get('site_logo_white', $siteLogoWhite);
-                $siteFavicon = Setting::get('site_favicon', $siteFavicon);
+                $siteLogo = $resolveLogoAsset(Setting::get('site_logo'), $defaultLogo);
+                $siteLogoWhite = $resolveLogoAsset(Setting::get('site_logo_white'), $defaultLogoWhite);
+                $siteFavicon = $resolveLogoAsset(Setting::get('site_favicon'), $siteFavicon);
                 $logoHeightDesktop = (int) Setting::get('logo_height_desktop', $logoHeightDesktop);
                 $logoHeightMobile = (int) Setting::get('logo_height_mobile', $logoHeightMobile);
                 $logoHeightFooter = (int) Setting::get('logo_height_footer', $logoHeightFooter);

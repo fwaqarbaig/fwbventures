@@ -101,7 +101,7 @@
             <!-- Brand -->
             <div class="h-16 flex items-center justify-between px-6 bg-slate-950 border-b border-slate-800/80">
                 <a href="{{ route('admin.dashboard') }}" class="flex items-center gap-2">
-                    <img src="{{ asset(ltrim($siteLogoWhite ?? '/images/fwb-logo-white.svg', '/')) }}" alt="{{ $siteTitle ?? 'FWB Ventures' }}" style="height: 28px; width: auto;" class="max-w-[140px] object-contain">
+                    <img src="{{ str_starts_with($siteLogoWhite ?? '', 'http') ? $siteLogoWhite : asset(ltrim($siteLogoWhite ?? '/images/fwb-logo-white.svg', '/')) }}" alt="{{ $siteTitle ?? 'FWB Ventures' }}" style="height: 28px; width: auto;" class="max-w-[140px] object-contain">
                     <span class="text-[9px] uppercase tracking-widest font-extrabold text-orange-300 bg-orange-950/60 px-1.5 py-0.5 rounded border border-orange-500/30">CMS</span>
                 </a>
                 <button @click="sidebarOpen = false" class="lg:hidden text-slate-400 hover:text-white">
