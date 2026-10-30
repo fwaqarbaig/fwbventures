@@ -84,7 +84,7 @@
                             @click="tab = 'products'" 
                             :class="tab === 'products' ? 'bg-white text-slate-900 shadow-sm font-bold' : 'text-slate-600 hover:text-slate-900'"
                             class="px-3.5 py-1.5 rounded-lg transition whitespace-nowrap">
-                        Fleet & Products ({{ $products->count() }})
+                        Products ({{ $products->count() }})
                     </button>
                 @endif
                 @if($services->isNotEmpty())
@@ -139,16 +139,16 @@
             </div>
         @else
 
-            <!-- 1. Generator Fleet & Equipment Results -->
+            <!-- 1. Products & Equipment Results -->
             @if($products->isNotEmpty())
                 <div x-show="tab === 'all' || tab === 'products'" class="mb-12">
                     <div class="flex items-center justify-between mb-4 border-b border-slate-100 pb-2">
                         <h3 class="text-lg font-bold text-slate-900 flex items-center gap-2">
-                            <i data-lucide="zap" class="w-5 h-5 text-sky-500"></i>
-                            <span>Generator Fleet & Equipment ({{ $products->count() }})</span>
+                            <i data-lucide="box" class="w-5 h-5 text-sky-500"></i>
+                            <span>Products & Equipment ({{ $products->count() }})</span>
                         </h3>
-                        <a href="{{ route('fleet.index') }}" class="text-xs font-semibold text-[#f25c05] hover:underline">
-                            View All Fleet &rarr;
+                        <a href="{{ route('product.index') }}" class="text-xs font-semibold text-[#f25c05] hover:underline">
+                            View All Products &rarr;
                         </a>
                     </div>
 
@@ -163,11 +163,11 @@
                                             </span>
                                         @else
                                             <span class="inline-flex items-center px-2.5 py-0.5 rounded-full text-[11px] font-extrabold bg-slate-100 text-slate-700">
-                                                {{ $product->category ?? 'Generator' }}
+                                                {{ $product->category ?? 'Equipment' }}
                                             </span>
                                         @endif
                                         <span class="text-[10px] font-bold text-emerald-600 bg-emerald-50 px-2 py-0.5 rounded">
-                                            In Stock &bull; 24/7 UAE
+                                            Available &bull; Karachi
                                         </span>
                                     </div>
                                     <h4 class="text-base font-bold text-slate-900 group-hover:text-[#f25c05] transition mb-2">
@@ -181,11 +181,11 @@
                                 </div>
                                 <div class="pt-4 border-t border-slate-100 flex items-center justify-between">
                                     <a href="{{ route('fleet.show', $product->slug) }}" class="text-xs font-bold text-[#f25c05] hover:text-[#d95204] flex items-center gap-1">
-                                        <span>View Technical Specs</span>
+                                        <span>View Specifications</span>
                                         <i data-lucide="arrow-right" class="w-3.5 h-3.5"></i>
                                     </a>
                                     <a href="{{ route('contact') }}" class="px-3 py-1 bg-slate-900 hover:bg-slate-800 text-white rounded text-[11px] font-bold transition">
-                                        Rent Now
+                                        Inquire Now
                                     </a>
                                 </div>
                             </div>

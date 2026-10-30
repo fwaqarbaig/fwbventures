@@ -118,21 +118,21 @@
                     <span>Dashboard</span>
                 </a>
 
-                <div class="pt-4 pb-1 px-3 text-[10px] font-bold uppercase tracking-wider text-slate-400">Fleet & Services</div>
+                <div class="pt-4 pb-1 px-3 text-[10px] font-bold uppercase tracking-wider text-slate-400">Catalog & Services</div>
 
-                <!-- Fleet (Products) Menu -->
+                <!-- Products Menu -->
                 <div x-data="{ open: {{ request()->routeIs('admin.products.*') ? 'true' : 'false' }} }">
                     <button @click="open = !open" 
                             class="w-full flex items-center justify-between px-3 py-2.5 rounded-lg text-sm font-medium transition-colors {{ request()->routeIs('admin.products.*') ? 'bg-slate-800/80 text-white font-semibold' : 'hover:bg-slate-800 hover:text-white text-slate-300' }}">
                         <div class="flex items-center gap-3">
-                            <i data-lucide="zap" class="w-4 h-4 shrink-0 text-sky-400"></i>
-                            <span>Generator Fleet</span>
+                            <i data-lucide="box" class="w-4 h-4 shrink-0 text-sky-400"></i>
+                            <span>Products</span>
                         </div>
                         <i data-lucide="chevron-down" class="w-4 h-4 transition-transform duration-200" :class="open ? 'rotate-180' : ''"></i>
                     </button>
                     <div x-show="open" x-cloak class="pl-9 pr-2 py-1.5 space-y-1 text-xs">
-                        <a href="{{ route('admin.products.index') }}" class="block py-1.5 px-2 rounded hover:text-white transition {{ request()->routeIs('admin.products.index') ? 'text-brand-400 font-semibold' : 'text-slate-400' }}">All Fleet Models</a>
-                        <a href="{{ route('admin.products.create') }}" class="block py-1.5 px-2 rounded hover:text-white transition {{ request()->routeIs('admin.products.create') ? 'text-brand-400 font-semibold' : 'text-slate-400' }}">Add Fleet Model</a>
+                        <a href="{{ route('admin.products.index') }}" class="block py-1.5 px-2 rounded hover:text-white transition {{ request()->routeIs('admin.products.index') ? 'text-brand-400 font-semibold' : 'text-slate-400' }}">All Products</a>
+                        <a href="{{ route('admin.products.create') }}" class="block py-1.5 px-2 rounded hover:text-white transition {{ request()->routeIs('admin.products.create') ? 'text-brand-400 font-semibold' : 'text-slate-400' }}">Add Product</a>
                     </div>
                 </div>
 

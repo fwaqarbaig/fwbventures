@@ -4,6 +4,7 @@ namespace App\Providers;
 
 use App\Models\MenuItem;
 use App\Models\Setting;
+use App\Services\LegacyDataCleaner;
 use Illuminate\Cache\RateLimiting\Limit;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\RateLimiter;
@@ -28,6 +29,16 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot(): void
     {
+        // One-time self-healing cleanup of legacy UAE generator template data
+        if (Schema::hasTable('settings') && Setting::get('legacy_data_cleaned_v1') !== '1') {
+            try {
+                app(LegacyDataCleaner::class)->run();
+                Setting::set('legacy_data_cleaned_v1', '1');
+            } catch (\Throwable) {
+                // Ignore during early bootstrap or before migrations
+            }
+        }
+
         // Enforce strong password defaults
         Password::defaults(function () {
             $rule = Password::min(8);
