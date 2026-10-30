@@ -3,6 +3,7 @@
 .env
 .env.backup
 .env.production
+.env.*.local
 .phpactor.json
 .phpunit.result.cache
 /.codex
@@ -14,10 +15,25 @@
 /.zed
 /auth.json
 /node_modules
+
+# Temporary scratch and output files
+/scratch/
+/output/
+/tmp/
+
+# Public assets & builds
 # /public/build (tracked for production deployments without Node on server)
 /public/fonts-manifest.dev.json
 /public/hot
-/public/storage
+
+# Public Storage (Tracked for shared hosting deployment so media is deployed)
+!/public/storage
+!/public/storage/media
+!/public/storage/media/**
+!/public/storage/uploads
+!/public/storage/uploads/**
+!/public/storage/.htaccess
+
 /storage/*.key
 /storage/pail
 /vendor
