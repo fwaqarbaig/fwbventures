@@ -1,12 +1,21 @@
 # ==============================================================================
 # Storage Security Hardening
-# Prevents unauthorized web access to private logs, sessions, and internal files
+# Allows public access to media/uploads while blocking private framework data
 # ==============================================================================
 
-<IfModule mod_authz_core.c>
-    Require all denied
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # 1. Block access to private system folders
+    RewriteRule ^(framework|logs|app/private|pail|\.gitignore) - [F,L,NC]
+
+    # 2. Block execution of any scripts
+    RewriteCond %{REQUEST_URI} \.(php|phtml|php[0-9]|phps|phar|sh|bash|pl|cgi|py|exe|bat|cmd|jsp|asp|aspx|shtml|env|config|key|sql|sqlite)$ [NC]
+    RewriteRule .* - [F,L]
+
+    # 3. Route public media and uploads to app/public if accessed directly
+    RewriteRule ^media/(.*)$ app/public/media/$1 [L]
+    RewriteRule ^uploads/(.*)$ app/public/uploads/$1 [L]
 </IfModule>
-<IfModule !mod_authz_core.c>
-    Order Deny,Allow
-    Deny from all
-</IfModule>
+
+Options -ExecCGI -Indexes
