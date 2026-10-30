@@ -1,0 +1,29 @@
+# ==============================================================================
+# Rental Power UAE - Root Directory Configuration (Hostinger / cPanel / LiteSpeed)
+# Seamlessly routes all traffic into /public/ without showing /public in the URL
+# ==============================================================================
+
+DirectoryIndex public/index.php index.php
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+
+    # 1. Block direct access to sensitive system files and folders
+    RewriteRule ^(\.env|\.git|\.github|composer\.|package\.|artisan|database/|storage/logs/|storage/framework/|app/|bootstrap/|config/|resources/|routes/|vendor/) - [F,L,NC]
+    RewriteRule \.(env|yml|yaml|json|lock|sql|sqlite|log|sh|bak|swp|dist|md)$ - [F,L,NC]
+
+    # 2. Strip /public/ from URL if someone explicitly requests /public/
+    RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /public/(.*)\ HTTP/ [NC]
+    RewriteRule ^public/(.*)$ /$1 [R=301,L]
+    RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /public\ HTTP/ [NC]
+    RewriteRule ^public$ / [R=301,L]
+
+    # 3. Transparently forward all non-public requests into the public/ directory
+    # Static files (images, css, js, storage) and application routes are handled inside public/.htaccess
+    RewriteCond %{REQUEST_URI} !^/public/
+    RewriteRule ^(.*)$ public/$1 [L]
+</IfModule>
+
+# Disable directory browsing
+Options -Indexes -MultiViews

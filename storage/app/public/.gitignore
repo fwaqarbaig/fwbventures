@@ -1,0 +1,7 @@
+*
+!.gitignore
+!media
+!media/**
+!uploads
+!uploads/**
+!.htaccess

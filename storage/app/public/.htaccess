@@ -1,0 +1,30 @@
+# ==============================================================================
+# Storage / Uploads Security Hardening
+# Strictly prevents executing or parsing any script uploaded into this directory
+# ==============================================================================
+
+# Disable script engines
+<IfModule mod_php.c>
+    php_flag engine off
+</IfModule>
+<IfModule mod_php7.c>
+    php_flag engine off
+</IfModule>
+<IfModule mod_php8.c>
+    php_flag engine off
+</IfModule>
+
+# Forbid access to any executable file extension
+<FilesMatch "(?i)\.(php|phtml|php[0-9]|phps|phar|sh|bash|pl|cgi|py|exe|bat|cmd|jsp|asp|aspx|shtml|env|config)$">
+    <IfModule mod_authz_core.c>
+        Require all denied
+    </IfModule>
+    <IfModule !mod_authz_core.c>
+        Order Deny,Allow
+        Deny from all
+    </IfModule>
+</FilesMatch>
+
+# Force text/octet-stream fallback for non-static files
+Options -ExecCGI -Indexes
+RemoveHandler .php .phtml .php3 .php4 .php5 .php7 .php8 .phps .phar .cgi .pl .py .sh

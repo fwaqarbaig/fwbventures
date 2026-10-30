@@ -1,0 +1,200 @@
+<?php
+
+namespace App\Models;
+
+use App\Models\Traits\HasFeaturedImageSeo;
+use App\Models\Traits\HasYoastSeo;
+use Illuminate\Database\Eloquent\Builder;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
+use Illuminate\Database\Eloquent\Model;
+use Illuminate\Support\Str;
+
+class Product extends Model
+{
+    use HasFactory;
+    use HasFeaturedImageSeo;
+    use HasYoastSeo;
+
+    protected $fillable = [
+        'title',
+        'slug',
+        'tagline',
+        'badge',
+        'category',
+        'icon',
+        'summary',
+        'content',
+        'modules',
+        'highlights',
+        'demo_url',
+        'brochure_url',
+        'featured_image',
+        'status',
+        'order',
+        'is_featured',
+        'focus_keyword',
+        'meta_title',
+        'meta_description',
+        'meta_keywords',
+        'canonical_url',
+        'og_title',
+        'og_description',
+        'og_image',
+        'is_indexable',
+        'seo_score',
+        'readability_score',
+        'schema_markup',
+    ];
+
+    protected function casts(): array
+    {
+        return [
+            'modules' => 'array',
+            'highlights' => 'array',
+            'is_featured' => 'boolean',
+            'is_indexable' => 'boolean',
+            'order' => 'integer',
+            'seo_score' => 'integer',
+            'readability_score' => 'integer',
+        ];
+    }
+
+    /**
+     * Scope for published products.
+     */
+    public function scopePublished(Builder $query): Builder
+    {
+        return $query->where('status', 'published');
+    }
+
+    /**
+     * Scope for featured products.
+     */
+    public function scopeFeatured(Builder $query): Builder
+    {
+        return $query->where('is_featured', true);
+    }
+
+    /**
+     * Scope ordered by custom order index.
+     */
+    public function scopeOrdered(Builder $query): Builder
+    {
+        return $query->orderBy('order', 'asc')->orderBy('id', 'asc');
+    }
+
+    /**
+     * Featured image URL accessor.
+     */
+    public function getFeaturedImageUrlAttribute(): ?string
+    {
+        if (! $this->featured_image) {
+            return null;
+        }
+
+        if (str_starts_with($this->featured_image, 'http://') || str_starts_with($this->featured_image, 'https://')) {
+            return $this->featured_image;
+        }
+
+        $clean = ltrim($this->featured_image, '/');
+
+        if (str_starts_with($clean, 'images/')) {
+            return asset($clean);
+        }
+
+        if (file_exists(public_path($clean))) {
+            return asset($clean);
+        }
+
+        if (str_starts_with($clean, 'storage/')) {
+            return asset($clean);
+        }
+
+        if (file_exists(public_path('storage/'.$clean))) {
+            return asset('storage/'.$clean);
+        }
+
+        return asset($clean);
+    }
+
+    /**
+     * SEO Title fallback.
+     */
+    public function getSeoTitleAttribute(): string
+    {
+        return $this->meta_title ?: ($this->title.' - '.config('app.name', 'FWB Ventures'));
+    }
+
+    /**
+     * SEO Description fallback.
+     */
+    public function getSeoDescriptionAttribute(): string
+    {
+        if ($this->meta_description) {
+            return $this->meta_description;
+        }
+
+        if ($this->summary) {
+            return Str::limit(strip_tags($this->summary), 160);
+        }
+
+        if (! empty($this->content)) {
+            return Str::limit(strip_tags($this->content), 160);
+        }
+
+        return "{$this->title} engineered and installed by FWB Ventures in Karachi, Pakistan.";
+    }
+
+    /**
+     * SEO Image fallback.
+     */
+    public function getSeoImageAttribute(): string
+    {
+        $image = $this->og_image ?: $this->featured_image;
+
+        if (! $image) {
+            return asset('images/services/solar/solar-rooftop-installation-karachi.webp');
+        }
+
+        if (str_starts_with($image, 'http://') || str_starts_with($image, 'https://')) {
+            return $image;
+        }
+
+        $clean = ltrim($image, '/');
+
+        if (str_starts_with($clean, 'images/')) {
+            return asset($clean);
+        }
+
+        if (file_exists(public_path($clean))) {
+            return asset($clean);
+        }
+
+        if (str_starts_with($clean, 'storage/')) {
+            return asset($clean);
+        }
+
+        if (file_exists(public_path('storage/'.$clean))) {
+            return asset('storage/'.$clean);
+        }
+
+        return asset($clean);
+    }
+
+    /**
+     * Automatically generate unique slug.
+     */
+    public static function createUniqueSlug(string $title, ?int $ignoreId = null): string
+    {
+        $slug = Str::slug($title);
+        $originalSlug = $slug;
+        $count = 1;
+
+        while (static::where('slug', $slug)->when($ignoreId, fn ($q) => $q->where('id', '!=', $ignoreId))->exists()) {
+            $slug = "{$originalSlug}-{$count}";
+            $count++;
+        }
+
+        return $slug;
+    }
+}
