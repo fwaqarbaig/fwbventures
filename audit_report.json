@@ -1,0 +1,3426 @@
+{
+    "counts": {
+        "services": 279,
+        "posts": 114,
+        "pages": 61,
+        "products": 20,
+        "total_indexable_candidates": 474
+    },
+    "titles": {
+        "duplicate_titles": {
+            "Solar Solutions in Karachi": [
+                "/service/solar-solutions-karachi",
+                "/service/solar-solutions-in-karachi"
+            ],
+            "Solar System Prices in Karachi": [
+                "/service/solar-system-prices-karachi",
+                "/service/solar-system-prices-in-karachi"
+            ],
+            "Solar Services in Karachi": [
+                "/service/solar-services-karachi",
+                "/service/solar-services-in-karachi"
+            ],
+            "Solar Installation Areas in Karachi": [
+                "/service/solar-installation-areas-karachi",
+                "/service/solar-installation-areas-in-karachi"
+            ],
+            "Solar Mounting Structures in Karachi": [
+                "/service/solar-mounting-structures-karachi",
+                "/service/solar-mounting-structures-in-karachi"
+            ],
+            "Solar Structure Types in Karachi": [
+                "/service/solar-structure-types-karachi",
+                "/service/solar-structure-types-in-karachi"
+            ],
+            "Solar Structure Materials in Karachi": [
+                "/service/solar-structure-materials-karachi",
+                "/service/solar-structure-materials-in-karachi"
+            ],
+            "CCTV Solutions in Karachi": [
+                "/service/cctv-solutions-karachi",
+                "/service/cctv-solutions-in-karachi"
+            ],
+            "Lithium Battery Prices in Karachi": [
+                "/service/lithium-battery-prices-karachi",
+                "/service/lithium-battery-prices-in-karachi"
+            ]
+        },
+        "missing_meta_desc": [],
+        "duplicate_meta_desc": []
+    },
+    "word_counts": {
+        "thin_under_500": [
+            {
+                "url": "/service/solar-systems-by-capacity-karachi",
+                "words": 385,
+                "title": "Solar Systems by Capacity in Karachi"
+            },
+            {
+                "url": "/service/solar-system-prices-karachi",
+                "words": 333,
+                "title": "Solar System Prices in Karachi"
+            },
+            {
+                "url": "/service/solar-services-karachi",
+                "words": 435,
+                "title": "Solar Services in Karachi"
+            },
+            {
+                "url": "/service/solar-installation-areas-karachi",
+                "words": 424,
+                "title": "Solar Installation Areas in Karachi"
+            },
+            {
+                "url": "/service/solar-mounting-structures-karachi",
+                "words": 426,
+                "title": "Solar Mounting Structures in Karachi"
+            },
+            {
+                "url": "/service/solar-structure-types-karachi",
+                "words": 420,
+                "title": "Solar Structure Types in Karachi"
+            },
+            {
+                "url": "/service/solar-structure-materials-karachi",
+                "words": 455,
+                "title": "Solar Structure Materials in Karachi"
+            },
+            {
+                "url": "/service/solar-structures-by-application-karachi",
+                "words": 276,
+                "title": "Solar Structures by Application in Karachi"
+            },
+            {
+                "url": "/service/solar-farm-structure-prices-karachi",
+                "words": 283,
+                "title": "Solar Farm Structure Prices in Karachi"
+            },
+            {
+                "url": "/service/solar-structure-design-and-engineering-karachi",
+                "words": 475,
+                "title": "Solar Structure Design & Engineering in Karachi"
+            },
+            {
+                "url": "/service/cctv-cameras-karachi",
+                "words": 482,
+                "title": "CCTV Cameras in Karachi"
+            },
+            {
+                "url": "/service/cctv-solutions-karachi",
+                "words": 374,
+                "title": "CCTV Solutions in Karachi"
+            },
+            {
+                "url": "/service/cctv-services-installation-karachi",
+                "words": 409,
+                "title": "CCTV Services & Installation in Karachi"
+            },
+            {
+                "url": "/service/cctv-camera-prices-karachi",
+                "words": 314,
+                "title": "CCTV Camera Prices in Karachi"
+            },
+            {
+                "url": "/service/cctv-brands-karachi",
+                "words": 356,
+                "title": "CCTV Brands in Karachi: Hikvision, Dahua & Uniview"
+            },
+            {
+                "url": "/service/residential-lithium-batteries-karachi",
+                "words": 376,
+                "title": "Residential Lithium Batteries in Karachi"
+            },
+            {
+                "url": "/service/commercial-industrial-lithium-batteries-karachi",
+                "words": 379,
+                "title": "Commercial & Industrial Lithium Batteries in Karachi"
+            },
+            {
+                "url": "/service/lithium-battery-prices-karachi",
+                "words": 387,
+                "title": "Lithium Battery Prices in Karachi"
+            },
+            {
+                "url": "/what-to-consider-before-renting-a-chiller-in-the-uae",
+                "words": 479,
+                "title": "What to Consider Before Renting a Chiller in the UAE"
+            }
+        ],
+        "medium_500_1500": [
+            {
+                "url": "/service/solar-panel-installation-karachi",
+                "words": 650,
+                "title": "Solar Panel Installation in Karachi"
+            },
+            {
+                "url": "/service/solar-solutions-karachi",
+                "words": 539,
+                "title": "Solar Solutions in Karachi"
+            },
+            {
+                "url": "/service/solar-systems-by-type-karachi",
+                "words": 545,
+                "title": "Solar Systems by Type in Karachi"
+            },
+            {
+                "url": "/service/solar-panels-and-equipment-karachi",
+                "words": 511,
+                "title": "Solar Panels and Equipment in Karachi"
+            },
+            {
+                "url": "/a-practical-portacabin-buying-checklist-for-uae-buyers",
+                "words": 950,
+                "title": "A Practical Portacabin Buying Checklist for UAE Buyers"
+            },
+            {
+                "url": "/generator-sizing-guide-dubai-construction-kva",
+                "words": 533,
+                "title": "Generator Sizing Guide for Dubai & UAE Construction Sites: kVA vs kW"
+            },
+            {
+                "url": "/what-is-included-in-a-professional-generator-rental-agreement",
+                "words": 598,
+                "title": "What Is Included in a Professional Generator Rental Agreement?"
+            },
+            {
+                "url": "/rental-chiller-vs-portable-ac-for-commercial-buildings-in-the-uae",
+                "words": 910,
+                "title": "Rental Chiller vs Portable AC for Commercial Buildings in the UAE"
+            },
+            {
+                "url": "/how-to-prepare-your-facility-for-temporary-cooling-installation",
+                "words": 725,
+                "title": "How to Prepare Your Facility for Temporary Cooling Installation"
+            },
+            {
+                "url": "/how-to-prepare-a-site-for-portacabin-delivery-and-installation-in-the-uae",
+                "words": 877,
+                "title": "How to Prepare a Site for Portacabin Delivery and Installation in the UAE"
+            },
+            {
+                "url": "/how-to-choose-rental-generator-construction-projects-uae",
+                "words": 880,
+                "title": "How to Choose a Rental Generator for Construction Projects in the UAE"
+            },
+            {
+                "url": "/what-size-rental-generator-does-your-dubai-business-need",
+                "words": 783,
+                "title": "What Size Rental Generator Does Your Dubai Business Need?"
+            },
+            {
+                "url": "/rental-generator-vs-buying-generator-long-term-projects-uae",
+                "words": 665,
+                "title": "Rental Generator vs Buying a Generator for Long-Term Projects in the UAE"
+            },
+            {
+                "url": "/how-to-calculate-rental-generator-fuel-consumption",
+                "words": 790,
+                "title": "How to Calculate Rental Generator Fuel Consumption"
+            },
+            {
+                "url": "/what-affects-rental-generator-prices-in-dubai",
+                "words": 649,
+                "title": "What Affects Rental Generator Prices in Dubai?"
+            },
+            {
+                "url": "/how-to-arrange-temporary-generator-power-industrial-sites-sharjah",
+                "words": 579,
+                "title": "How to Arrange Temporary Generator Power for Industrial Sites in Sharjah"
+            },
+            {
+                "url": "/what-generator-capacity-suitable-commercial-building-abu-dhabi",
+                "words": 603,
+                "title": "What Generator Capacity Is Suitable for a Commercial Building in Abu Dhabi?"
+            },
+            {
+                "url": "/how-to-reduce-downtime-when-using-rental-generator-uae",
+                "words": 758,
+                "title": "How to Reduce Downtime When Using a Rental Generator in the UAE"
+            },
+            {
+                "url": "/how-to-choose-temporary-cooling-equipment-uae-summer-conditions",
+                "words": 794,
+                "title": "How to Choose Temporary Cooling Equipment for UAE Summer Conditions"
+            },
+            {
+                "url": "/what-cooling-capacity-does-your-dubai-warehouse-require",
+                "words": 563,
+                "title": "What Cooling Capacity Does Your Dubai Warehouse Require?"
+            },
+            {
+                "url": "/how-to-calculate-cooling-requirements-for-industrial-facilities",
+                "words": 677,
+                "title": "How to Calculate Cooling Requirements for Industrial Facilities"
+            },
+            {
+                "url": "/what-determines-temporary-cooling-rental-costs-in-the-uae",
+                "words": 530,
+                "title": "What Determines Temporary Cooling Rental Costs in the UAE?"
+            },
+            {
+                "url": "/how-to-plan-emergency-cooling-during-hvac-system-repairs",
+                "words": 590,
+                "title": "How to Plan Emergency Cooling During HVAC System Repairs"
+            },
+            {
+                "url": "/what-is-the-difference-between-chiller-rental-and-ac-rental",
+                "words": 588,
+                "title": "What Is the Difference Between Chiller Rental and AC Rental?"
+            },
+            {
+                "url": "/how-to-choose-cooling-equipment-construction-site-abu-dhabi",
+                "words": 580,
+                "title": "How to Choose Cooling Equipment for a Construction Site in Abu Dhabi"
+            },
+            {
+                "url": "/how-temporary-cooling-helps-prevent-production-interruptions",
+                "words": 584,
+                "title": "How Temporary Cooling Helps Prevent Production Interruptions"
+            },
+            {
+                "url": "/how-often-should-industrial-generators-be-serviced-in-the-uae",
+                "words": 669,
+                "title": "How Often Should Industrial Generators Be Serviced in the UAE?"
+            },
+            {
+                "url": "/what-does-a-complete-generator-preventive-maintenance-checklist-include",
+                "words": 711,
+                "title": "What Does a Complete Generator Preventive Maintenance Checklist Include?"
+            },
+            {
+                "url": "/why-do-diesel-generators-overheat-in-dubais-summer",
+                "words": 783,
+                "title": "Why Do Diesel Generators Overheat in Dubai's Summer?"
+            },
+            {
+                "url": "/what-causes-low-oil-pressure-in-an-industrial-generator",
+                "words": 866,
+                "title": "What Causes Low Oil Pressure in an Industrial Generator?"
+            },
+            {
+                "url": "/how-to-identify-early-signs-of-generator-alternator-failure",
+                "words": 735,
+                "title": "How to Identify Early Signs of Generator Alternator Failure"
+            },
+            {
+                "url": "/what-is-included-in-a-generator-load-bank-test",
+                "words": 665,
+                "title": "What Is Included in a Generator Load Bank Test?"
+            },
+            {
+                "url": "/how-to-maintain-generator-batteries-in-hot-weather",
+                "words": 788,
+                "title": "How to Maintain Generator Batteries in Hot Weather"
+            },
+            {
+                "url": "/what-causes-excessive-fuel-consumption-in-diesel-generators",
+                "words": 814,
+                "title": "What Causes Excessive Fuel Consumption in Diesel Generators?"
+            },
+            {
+                "url": "/how-to-prepare-a-standby-generator-for-emergency-operation",
+                "words": 735,
+                "title": "How to Prepare a Standby Generator for Emergency Operation"
+            },
+            {
+                "url": "/when-should-you-schedule-generator-maintenance-for-your-facility",
+                "words": 634,
+                "title": "When Should You Schedule Generator Maintenance for Your Facility?"
+            },
+            {
+                "url": "/what-should-you-inspect-before-buying-used-generator-uae",
+                "words": 792,
+                "title": "What Should You Inspect Before Buying a Used Generator in the UAE?"
+            },
+            {
+                "url": "/how-to-compare-used-generator-prices-and-specifications",
+                "words": 663,
+                "title": "How to Compare Used Generator Prices and Specifications"
+            },
+            {
+                "url": "/what-is-the-difference-between-used-and-refurbished-generators",
+                "words": 686,
+                "title": "What Is the Difference Between Used and Refurbished Generators?"
+            },
+            {
+                "url": "/how-many-operating-hours-are-too-many-for-a-used-generator",
+                "words": 556,
+                "title": "How Many Operating Hours Are Too Many for a Used Generator?"
+            },
+            {
+                "url": "/how-to-verify-generator-maintenance-records-before-purchase",
+                "words": 610,
+                "title": "How to Verify Generator Maintenance Records Before Purchase"
+            },
+            {
+                "url": "/what-testing-should-a-refurbished-generator-pass-before-sale",
+                "words": 642,
+                "title": "What Testing Should a Refurbished Generator Pass Before Sale?"
+            },
+            {
+                "url": "/how-to-choose-used-generator-industrial-facility-dubai",
+                "words": 566,
+                "title": "How to Choose a Used Generator for an Industrial Facility in Dubai"
+            },
+            {
+                "url": "/what-determines-the-resale-value-of-a-used-diesel-generator",
+                "words": 730,
+                "title": "What Determines the Resale Value of a Used Diesel Generator?"
+            },
+            {
+                "url": "/is-a-refurbished-generator-suitable-for-continuous-industrial-use",
+                "words": 608,
+                "title": "Is a Refurbished Generator Suitable for Continuous Industrial Use?"
+            },
+            {
+                "url": "/how-to-calculate-the-ownership-cost-of-a-used-generator",
+                "words": 603,
+                "title": "How to Calculate the Ownership Cost of a Used Generator"
+            },
+            {
+                "url": "/what-should-you-check-before-buying-a-portacabin-in-the-uae",
+                "words": 725,
+                "title": "What Should You Check Before Buying a Portacabin in the UAE?"
+            },
+            {
+                "url": "/how-to-choose-the-right-portacabin-size-for-a-construction-site",
+                "words": 720,
+                "title": "How to Choose the Right Portacabin Size for a Construction Site"
+            },
+            {
+                "url": "/difference-between-portable-office-cabin-and-site-cabin",
+                "words": 680,
+                "title": "What Is the Difference Between a Portable Office Cabin and a Site Cabin?"
+            },
+            {
+                "url": "/how-to-inspect-a-used-portacabin-before-purchase",
+                "words": 786,
+                "title": "How to Inspect a Used Portacabin Before Purchase"
+            },
+            {
+                "url": "/what-determines-portacabin-prices-in-the-uae",
+                "words": 699,
+                "title": "What Determines Portacabin Prices in the UAE?"
+            },
+            {
+                "url": "/how-to-choose-an-insulated-portacabin-for-dubai-climate",
+                "words": 730,
+                "title": "How to Choose an Insulated Portacabin for Dubai's Climate"
+            },
+            {
+                "url": "/which-portacabin-layout-is-suitable-for-construction-site-office",
+                "words": 752,
+                "title": "Which Portacabin Layout Is Suitable for a Construction Site Office?"
+            },
+            {
+                "url": "/what-should-businesses-check-when-buying-a-used-portacabin",
+                "words": 754,
+                "title": "What Should Businesses Check When Buying a Used Portacabin?"
+            },
+            {
+                "url": "/new-vs-used-portacabins-which-option-suits-your-business",
+                "words": 678,
+                "title": "New vs Used Portacabins: Which Option Suits Your Business?"
+            },
+            {
+                "url": "/how-to-select-a-rental-generator-for-a-high-rise-construction-project-in-dubai",
+                "words": 741,
+                "title": "How to Select a Rental Generator for a High-Rise Construction Project in Dubai"
+            },
+            {
+                "url": "/what-backup-generator-capacity-is-needed-for-a-shopping-mall-in-the-uae",
+                "words": 743,
+                "title": "What Backup Generator Capacity Is Needed for a Shopping Mall in the UAE?"
+            },
+            {
+                "url": "/how-to-plan-temporary-generator-power-for-outdoor-events-in-dubai",
+                "words": 757,
+                "title": "How to Plan Temporary Generator Power for Outdoor Events in Dubai"
+            },
+            {
+                "url": "/difference-between-single-phase-and-three-phase-rental-generators",
+                "words": 771,
+                "title": "What Is the Difference Between Single-Phase and Three-Phase Rental Generators?"
+            },
+            {
+                "url": "/how-to-choose-a-rental-generator-for-pumps-and-water-transfer-systems",
+                "words": 736,
+                "title": "How to Choose a Rental Generator for Pumps and Water Transfer Systems"
+            },
+            {
+                "url": "/factors-determine-delivery-installation-requirements-rental-generators-uae",
+                "words": 792,
+                "title": "What Factors Determine Delivery and Installation Requirements for Rental Generators in the UAE?"
+            },
+            {
+                "url": "/how-to-plan-generator-rental-for-a-factory-expansion-in-sharjah",
+                "words": 665,
+                "title": "How to Plan Generator Rental for a Factory Expansion in Sharjah"
+            },
+            {
+                "url": "/can-multiple-rental-generators-work-together-to-supply-industrial-power",
+                "words": 709,
+                "title": "Can Multiple Rental Generators Work Together to Supply Industrial Power?"
+            },
+            {
+                "url": "/how-to-choose-rental-generator-remote-construction-sites-abu-dhabi",
+                "words": 666,
+                "title": "How to Choose a Rental Generator for Remote Construction Sites in Abu Dhabi"
+            },
+            {
+                "url": "/what-safety-checks-should-be-completed-before-starting-a-rental-generator",
+                "words": 927,
+                "title": "What Safety Checks Should Be Completed Before Starting a Rental Generator?"
+            },
+            {
+                "url": "/how-to-select-temporary-cooling-for-a-server-room-during-hvac-maintenance",
+                "words": 730,
+                "title": "How to Select Temporary Cooling for a Server Room During HVAC Maintenance"
+            },
+            {
+                "url": "/cooling-equipment-suitable-for-temporary-industrial-facilities-uae",
+                "words": 756,
+                "title": "What Cooling Equipment Is Suitable for Temporary Industrial Facilities in the UAE?"
+            },
+            {
+                "url": "/how-to-estimate-chiller-capacity-for-a-large-commercial-building",
+                "words": 771,
+                "title": "How to Estimate Chiller Capacity for a Large Commercial Building"
+            },
+            {
+                "url": "/difference-between-emergency-chiller-rental-and-planned-cooling-rental",
+                "words": 746,
+                "title": "What Is the Difference Between Emergency Chiller Rental and Planned Cooling Rental?"
+            },
+            {
+                "url": "/how-to-plan-temporary-cooling-for-a-hotel-renovation-in-dubai",
+                "words": 738,
+                "title": "How to Plan Temporary Cooling for a Hotel Renovation in Dubai"
+            },
+            {
+                "url": "/which-factors-affect-rental-chiller-performance-during-uae-summer",
+                "words": 802,
+                "title": "Which Factors Affect Rental Chiller Performance During UAE Summer?"
+            },
+            {
+                "url": "/how-to-choose-temporary-cooling-for-a-manufacturing-plant-in-sharjah",
+                "words": 673,
+                "title": "How to Choose Temporary Cooling for a Manufacturing Plant in Sharjah"
+            },
+            {
+                "url": "/what-is-required-to-connect-a-rental-chiller-to-an-existing-hvac-system",
+                "words": 781,
+                "title": "What Is Required to Connect a Rental Chiller to an Existing HVAC System?"
+            },
+            {
+                "url": "/how-to-plan-cooling-for-temporary-accommodation-and-site-offices",
+                "words": 740,
+                "title": "How to Plan Cooling for Temporary Accommodation and Site Offices"
+            },
+            {
+                "url": "/what-should-you-include-in-a-temporary-cooling-equipment-handover-checklist",
+                "words": 797,
+                "title": "What Should You Include in a Temporary Cooling Equipment Handover Checklist?"
+            },
+            {
+                "url": "/most-important-daily-checks-for-an-industrial-diesel-generator",
+                "words": 765,
+                "title": "What Are the Most Important Daily Checks for an Industrial Diesel Generator?"
+            },
+            {
+                "url": "/how-to-create-a-preventive-generator-maintenance-schedule-for-uae-businesses",
+                "words": 744,
+                "title": "How to Create a Preventive Generator Maintenance Schedule for UAE Businesses"
+            },
+            {
+                "url": "/why-does-a-diesel-generator-produce-black-smoke-under-load",
+                "words": 796,
+                "title": "Why Does a Diesel Generator Produce Black Smoke Under Load?"
+            },
+            {
+                "url": "/what-causes-a-generator-to-crank-but-not-start",
+                "words": 875,
+                "title": "What Causes a Generator to Crank but Not Start?"
+            },
+            {
+                "url": "/how-to-identify-generator-cooling-system-problems-before-a-breakdown",
+                "words": 855,
+                "title": "How to Identify Generator Cooling System Problems Before a Breakdown"
+            },
+            {
+                "url": "/when-should-generator-engine-oil-and-filters-be-replaced",
+                "words": 772,
+                "title": "When Should Generator Engine Oil and Filters Be Replaced?"
+            },
+            {
+                "url": "/how-to-troubleshoot-generator-voltage-fluctuations-in-industrial-facilities",
+                "words": 799,
+                "title": "How to Troubleshoot Generator Voltage Fluctuations in Industrial Facilities"
+            },
+            {
+                "url": "/difference-between-generator-servicing-repair-and-overhauling",
+                "words": 723,
+                "title": "What Is the Difference Between Generator Servicing, Repair and Overhauling?"
+            },
+            {
+                "url": "/how-to-prepare-industrial-generators-for-long-periods-of-standby",
+                "words": 810,
+                "title": "How to Prepare Industrial Generators for Long Periods of Standby"
+            },
+            {
+                "url": "/which-generator-maintenance-records-should-facility-managers-keep",
+                "words": 765,
+                "title": "Which Generator Maintenance Records Should Facility Managers Keep?"
+            },
+            {
+                "url": "/how-to-choose-between-used-diesel-generator-and-refurbished-unit",
+                "words": 717,
+                "title": "How to Choose Between a Used Diesel Generator and a Refurbished Unit"
+            },
+            {
+                "url": "/what-generator-test-results-should-buyers-review-before-purchase",
+                "words": 770,
+                "title": "What Generator Test Results Should Buyers Review Before Purchase?"
+            },
+            {
+                "url": "/how-to-assess-the-condition-of-a-used-generators-control-system",
+                "words": 787,
+                "title": "How to Assess the Condition of a Used Generator's Control System"
+            },
+            {
+                "url": "/which-generator-specifications-matter-most-when-comparing-used-units",
+                "words": 763,
+                "title": "Which Generator Specifications Matter Most When Comparing Used Units?"
+            },
+            {
+                "url": "/how-to-calculate-the-payback-period-for-a-used-industrial-generator",
+                "words": 736,
+                "title": "How to Calculate the Payback Period for a Used Industrial Generator"
+            },
+            {
+                "url": "/what-are-the-common-problems-found-in-older-diesel-generators",
+                "words": 828,
+                "title": "What Are the Common Problems Found in Older Diesel Generators?"
+            },
+            {
+                "url": "/how-to-inspect-a-used-generator-before-transporting-it-to-your-site",
+                "words": 851,
+                "title": "How to Inspect a Used Generator Before Transporting It to Your Site"
+            },
+            {
+                "url": "/what-should-businesses-know-about-refurbished-generator-spare-parts",
+                "words": 695,
+                "title": "What Should Businesses Know About Refurbished Generator Spare Parts?"
+            },
+            {
+                "url": "/how-to-choose-used-generator-commercial-property-abu-dhabi",
+                "words": 689,
+                "title": "How to Choose a Used Generator for a Commercial Property in Abu Dhabi"
+            },
+            {
+                "url": "/what-installation-requirements-should-you-confirm-before-buying-a-used-generator",
+                "words": 862,
+                "title": "What Installation Requirements Should You Confirm Before Buying a Used Generator?"
+            },
+            {
+                "url": "/how-to-choose-a-portacabin-for-a-construction-project-in-dubai",
+                "words": 729,
+                "title": "How to Choose a Portacabin for a Construction Project in Dubai"
+            },
+            {
+                "url": "/different-types-of-portacabins-available-for-uae-businesses",
+                "words": 789,
+                "title": "What Are the Different Types of Portacabins Available for UAE Businesses?"
+            },
+            {
+                "url": "/how-to-compare-new-and-used-portacabin-prices-in-the-uae",
+                "words": 687,
+                "title": "How to Compare New and Used Portacabin Prices in the UAE"
+            },
+            {
+                "url": "/what-insulation-features-should-you-look-for-in-a-portacabin-for-dubai-climate",
+                "words": 782,
+                "title": "What Insulation Features Should You Look for in a Portacabin for Dubai's Climate?"
+            },
+            {
+                "url": "/how-to-select-a-portable-office-cabin-for-a-construction-site",
+                "words": 750,
+                "title": "How to Select a Portable Office Cabin for a Construction Site"
+            },
+            {
+                "url": "/what-should-you-inspect-before-purchasing-a-second-hand-portacabin",
+                "words": 802,
+                "title": "What Should You Inspect Before Purchasing a Second-Hand Portacabin?"
+            },
+            {
+                "url": "/how-to-choose-a-portacabin-layout-for-site-offices-and-staff-facilities",
+                "words": 734,
+                "title": "How to Choose a Portacabin Layout for Site Offices and Staff Facilities"
+            },
+            {
+                "url": "/transport-and-site-access-requirements-matter-buying-portacabin-uae",
+                "words": 858,
+                "title": "What Transport and Site Access Requirements Matter When Buying a Portacabin in the UAE?"
+            },
+            {
+                "url": "/how-to-prepare-a-used-portacabin-for-reuse-at-a-new-project-site",
+                "words": 856,
+                "title": "How to Prepare a Used Portacabin for Reuse at a New Project Site"
+            },
+            {
+                "url": "/what-questions-should-you-ask-a-portacabin-supplier-before-placing-an-order",
+                "words": 895,
+                "title": "What Questions Should You Ask a Portacabin Supplier Before Placing an Order?"
+            }
+        ],
+        "comprehensive_1500_plus": [
+            {
+                "url": "/service/solar-installation-karachi",
+                "words": 2142,
+                "title": "Solar Installation in Karachi"
+            },
+            {
+                "url": "/service/solar-frame-structure-karachi",
+                "words": 2126,
+                "title": "Solar Frame Structure in Karachi"
+            },
+            {
+                "url": "/service/cctv-services-karachi",
+                "words": 2079,
+                "title": "CCTV Services in Karachi"
+            },
+            {
+                "url": "/service/lithium-batteries-karachi",
+                "words": 2071,
+                "title": "Lithium Batteries in Karachi"
+            },
+            {
+                "url": "/service/solar-panel-installation",
+                "words": 2056,
+                "title": "Solar Panel Installation"
+            },
+            {
+                "url": "/service/residential-solar-panel-installation-in-karachi",
+                "words": 2086,
+                "title": "Residential Solar Panel Installation in Karachi"
+            },
+            {
+                "url": "/service/commercial-solar-panel-installation-in-karachi",
+                "words": 2086,
+                "title": "Commercial Solar Panel Installation in Karachi"
+            },
+            {
+                "url": "/service/industrial-solar-panel-installation-in-karachi",
+                "words": 2086,
+                "title": "Industrial Solar Panel Installation in Karachi"
+            },
+            {
+                "url": "/service/rooftop-solar-panel-installation-in-karachi",
+                "words": 2086,
+                "title": "Rooftop Solar Panel Installation in Karachi"
+            },
+            {
+                "url": "/service/solar-system-installation-for-new-buildings-in-karachi",
+                "words": 2106,
+                "title": "Solar System Installation for New Buildings in Karachi"
+            },
+            {
+                "url": "/service/solar-solutions-in-karachi",
+                "words": 2066,
+                "title": "Solar Solutions in Karachi"
+            },
+            {
+                "url": "/service/home-solar-systems-in-karachi",
+                "words": 2076,
+                "title": "Home Solar Systems in Karachi"
+            },
+            {
+                "url": "/service/office-solar-systems-in-karachi",
+                "words": 2076,
+                "title": "Office Solar Systems in Karachi"
+            },
+            {
+                "url": "/service/shop-solar-systems-in-karachi",
+                "words": 2076,
+                "title": "Shop Solar Systems in Karachi"
+            },
+            {
+                "url": "/service/factory-solar-systems-in-karachi",
+                "words": 2076,
+                "title": "Factory Solar Systems in Karachi"
+            },
+            {
+                "url": "/service/warehouse-solar-systems-in-karachi",
+                "words": 2076,
+                "title": "Warehouse Solar Systems in Karachi"
+            },
+            {
+                "url": "/service/school-solar-systems-in-karachi",
+                "words": 2076,
+                "title": "School Solar Systems in Karachi"
+            },
+            {
+                "url": "/service/hospital-solar-systems-in-karachi",
+                "words": 2076,
+                "title": "Hospital Solar Systems in Karachi"
+            },
+            {
+                "url": "/service/restaurant-and-hotel-solar-systems-in-karachi",
+                "words": 2096,
+                "title": "Restaurant and Hotel Solar Systems in Karachi"
+            },
+            {
+                "url": "/service/three-phase-solar-systems-in-karachi",
+                "words": 2076,
+                "title": "Three-Phase Solar Systems in Karachi"
+            },
+            {
+                "url": "/service/solar-systems-by-type",
+                "words": 2066,
+                "title": "Solar Systems by Type"
+            },
+            {
+                "url": "/service/on-grid-solar-systems-in-karachi",
+                "words": 2076,
+                "title": "On-Grid Solar Systems in Karachi"
+            },
+            {
+                "url": "/service/off-grid-solar-systems-in-karachi",
+                "words": 2076,
+                "title": "Off-Grid Solar Systems in Karachi"
+            },
+            {
+                "url": "/service/hybrid-solar-systems-in-karachi",
+                "words": 2076,
+                "title": "Hybrid Solar Systems in Karachi"
+            },
+            {
+                "url": "/service/solar-systems-with-battery-backup-in-karachi",
+                "words": 2096,
+                "title": "Solar Systems with Battery Backup in Karachi"
+            },
+            {
+                "url": "/service/solar-systems-for-load-shedding-in-karachi",
+                "words": 2096,
+                "title": "Solar Systems for Load Shedding in Karachi"
+            },
+            {
+                "url": "/service/grid-tied-solar-systems-in-karachi",
+                "words": 2076,
+                "title": "Grid-Tied Solar Systems in Karachi"
+            },
+            {
+                "url": "/service/solar-systems-by-capacity",
+                "words": 2066,
+                "title": "Solar Systems by Capacity"
+            },
+            {
+                "url": "/service/3kw-solar-system-in-karachi",
+                "words": 2076,
+                "title": "3kW Solar System in Karachi"
+            },
+            {
+                "url": "/service/5kw-solar-system-in-karachi",
+                "words": 2076,
+                "title": "5kW Solar System in Karachi"
+            },
+            {
+                "url": "/service/6kw-solar-system-in-karachi",
+                "words": 2076,
+                "title": "6kW Solar System in Karachi"
+            },
+            {
+                "url": "/service/8kw-solar-system-in-karachi",
+                "words": 2076,
+                "title": "8kW Solar System in Karachi"
+            },
+            {
+                "url": "/service/10kw-solar-system-in-karachi",
+                "words": 2076,
+                "title": "10kW Solar System in Karachi"
+            },
+            {
+                "url": "/service/12kw-solar-system-in-karachi",
+                "words": 2076,
+                "title": "12kW Solar System in Karachi"
+            },
+            {
+                "url": "/service/15kw-solar-system-in-karachi",
+                "words": 2076,
+                "title": "15kW Solar System in Karachi"
+            },
+            {
+                "url": "/service/20kw-solar-system-in-karachi",
+                "words": 2076,
+                "title": "20kW Solar System in Karachi"
+            },
+            {
+                "url": "/service/30kw-solar-system-in-karachi",
+                "words": 2076,
+                "title": "30kW Solar System in Karachi"
+            },
+            {
+                "url": "/service/50kw-solar-system-in-karachi",
+                "words": 2076,
+                "title": "50kW Solar System in Karachi"
+            },
+            {
+                "url": "/service/100kw-commercial-solar-system-in-karachi",
+                "words": 2086,
+                "title": "100kW Commercial Solar System in Karachi"
+            },
+            {
+                "url": "/service/industrial-solar-systems-above-100kw-in-karachi",
+                "words": 2096,
+                "title": "Industrial Solar Systems Above 100kW in Karachi"
+            },
+            {
+                "url": "/service/solar-panels-equipment",
+                "words": 2066,
+                "title": "Solar Panels & Equipment"
+            },
+            {
+                "url": "/service/solar-panels-in-karachi",
+                "words": 2066,
+                "title": "Solar Panels in Karachi"
+            },
+            {
+                "url": "/service/solar-inverters-in-karachi",
+                "words": 2066,
+                "title": "Solar Inverters in Karachi"
+            },
+            {
+                "url": "/service/hybrid-solar-inverters-in-karachi",
+                "words": 2076,
+                "title": "Hybrid Solar Inverters in Karachi"
+            },
+            {
+                "url": "/service/solar-batteries-in-karachi",
+                "words": 2066,
+                "title": "Solar Batteries in Karachi"
+            },
+            {
+                "url": "/service/lithium-solar-batteries-in-karachi",
+                "words": 2076,
+                "title": "Lithium Solar Batteries in Karachi"
+            },
+            {
+                "url": "/service/solar-mounting-structures-in-karachi",
+                "words": 2076,
+                "title": "Solar Mounting Structures in Karachi"
+            },
+            {
+                "url": "/service/solar-cables-and-connectors-in-karachi",
+                "words": 2086,
+                "title": "Solar Cables and Connectors in Karachi"
+            },
+            {
+                "url": "/service/solar-protection-and-earthing-equipment-in-karachi",
+                "words": 2096,
+                "title": "Solar Protection and Earthing Equipment in Karachi"
+            },
+            {
+                "url": "/service/solar-system-prices-in-karachi",
+                "words": 2076,
+                "title": "Solar System Prices in Karachi"
+            },
+            {
+                "url": "/service/solar-panel-installation-price-in-karachi",
+                "words": 2086,
+                "title": "Solar Panel Installation Price in Karachi"
+            },
+            {
+                "url": "/service/3kw-solar-system-price-in-karachi",
+                "words": 2086,
+                "title": "3kW Solar System Price in Karachi"
+            },
+            {
+                "url": "/service/5kw-solar-system-price-in-karachi",
+                "words": 2086,
+                "title": "5kW Solar System Price in Karachi"
+            },
+            {
+                "url": "/service/10kw-solar-system-price-in-karachi",
+                "words": 2086,
+                "title": "10kW Solar System Price in Karachi"
+            },
+            {
+                "url": "/service/15kw-solar-system-price-in-karachi",
+                "words": 2086,
+                "title": "15kW Solar System Price in Karachi"
+            },
+            {
+                "url": "/service/20kw-solar-system-price-in-karachi",
+                "words": 2086,
+                "title": "20kW Solar System Price in Karachi"
+            },
+            {
+                "url": "/service/commercial-solar-system-price-in-karachi",
+                "words": 2086,
+                "title": "Commercial Solar System Price in Karachi"
+            },
+            {
+                "url": "/service/industrial-solar-system-cost-in-karachi",
+                "words": 2086,
+                "title": "Industrial Solar System Cost in Karachi"
+            },
+            {
+                "url": "/service/solar-battery-price-in-karachi",
+                "words": 2076,
+                "title": "Solar Battery Price in Karachi"
+            },
+            {
+                "url": "/service/solar-inverter-price-in-karachi",
+                "words": 2076,
+                "title": "Solar Inverter Price in Karachi"
+            },
+            {
+                "url": "/service/solar-services-in-karachi",
+                "words": 2066,
+                "title": "Solar Services in Karachi"
+            },
+            {
+                "url": "/service/solar-system-maintenance-in-karachi",
+                "words": 2076,
+                "title": "Solar System Maintenance in Karachi"
+            },
+            {
+                "url": "/service/solar-panel-cleaning-in-karachi",
+                "words": 2076,
+                "title": "Solar Panel Cleaning in Karachi"
+            },
+            {
+                "url": "/service/solar-inverter-repair-in-karachi",
+                "words": 2076,
+                "title": "Solar Inverter Repair in Karachi"
+            },
+            {
+                "url": "/service/solar-system-troubleshooting-in-karachi",
+                "words": 2076,
+                "title": "Solar System Troubleshooting in Karachi"
+            },
+            {
+                "url": "/service/solar-system-upgrades-in-karachi",
+                "words": 2076,
+                "title": "Solar System Upgrades in Karachi"
+            },
+            {
+                "url": "/service/solar-battery-installation-in-karachi",
+                "words": 2076,
+                "title": "Solar Battery Installation in Karachi"
+            },
+            {
+                "url": "/service/solar-system-inspection-in-karachi",
+                "words": 2076,
+                "title": "Solar System Inspection in Karachi"
+            },
+            {
+                "url": "/service/solar-installation-areas-in-karachi",
+                "words": 2076,
+                "title": "Solar Installation Areas in Karachi"
+            },
+            {
+                "url": "/service/solar-panel-installation-in-dha-karachi",
+                "words": 2086,
+                "title": "Solar Panel Installation in DHA Karachi"
+            },
+            {
+                "url": "/service/solar-panel-installation-in-clifton-karachi",
+                "words": 2086,
+                "title": "Solar Panel Installation in Clifton Karachi"
+            },
+            {
+                "url": "/service/solar-panel-installation-in-gulshan-e-iqbal-karachi",
+                "words": 2086,
+                "title": "Solar Panel Installation in Gulshan-e-Iqbal Karachi"
+            },
+            {
+                "url": "/service/solar-panel-installation-in-gulistan-e-johar-karachi",
+                "words": 2086,
+                "title": "Solar Panel Installation in Gulistan-e-Johar Karachi"
+            },
+            {
+                "url": "/service/solar-panel-installation-in-north-nazimabad-karachi",
+                "words": 2096,
+                "title": "Solar Panel Installation in North Nazimabad Karachi"
+            },
+            {
+                "url": "/service/solar-panel-installation-in-pechs-karachi",
+                "words": 2086,
+                "title": "Solar Panel Installation in PECHS Karachi"
+            },
+            {
+                "url": "/service/solar-panel-installation-in-scheme-33-karachi",
+                "words": 2086,
+                "title": "Solar Panel Installation in Scheme 33 Karachi"
+            },
+            {
+                "url": "/service/solar-panel-installation-in-korangi-karachi",
+                "words": 2086,
+                "title": "Solar Panel Installation in Korangi Karachi"
+            },
+            {
+                "url": "/service/solar-panel-installation-in-malir-karachi",
+                "words": 2086,
+                "title": "Solar Panel Installation in Malir Karachi"
+            },
+            {
+                "url": "/service/solar-panel-installation-in-shahrah-e-faisal-karachi",
+                "words": 2086,
+                "title": "Solar Panel Installation in Shahrah-e-Faisal Karachi"
+            },
+            {
+                "url": "/service/solar-farm-structure-in-karachi",
+                "words": 2076,
+                "title": "Solar Farm Structure in Karachi"
+            },
+            {
+                "url": "/service/solar-farm-structure-installation-in-karachi",
+                "words": 2086,
+                "title": "Solar Farm Structure Installation in Karachi"
+            },
+            {
+                "url": "/service/solar-farm-structure-supplier-in-karachi",
+                "words": 2086,
+                "title": "Solar Farm Structure Supplier in Karachi"
+            },
+            {
+                "url": "/service/solar-farm-structure-manufacturer-in-karachi",
+                "words": 2086,
+                "title": "Solar Farm Structure Manufacturer in Karachi"
+            },
+            {
+                "url": "/service/solar-farm-structure-fabrication-in-karachi",
+                "words": 2086,
+                "title": "Solar Farm Structure Fabrication in Karachi"
+            },
+            {
+                "url": "/service/solar-farm-structure-design-in-karachi",
+                "words": 2086,
+                "title": "Solar Farm Structure Design in Karachi"
+            },
+            {
+                "url": "/service/custom-solar-farm-structure-in-karachi",
+                "words": 2086,
+                "title": "Custom Solar Farm Structure in Karachi"
+            },
+            {
+                "url": "/service/solar-mounting-structure-engineering-in-karachi",
+                "words": 2086,
+                "title": "Solar Mounting Structure Engineering in Karachi"
+            },
+            {
+                "url": "/service/ground-mounted-solar-structure-in-karachi",
+                "words": 2076,
+                "title": "Ground-Mounted Solar Structure in Karachi"
+            },
+            {
+                "url": "/service/rooftop-solar-mounting-structure-in-karachi",
+                "words": 2086,
+                "title": "Rooftop Solar Mounting Structure in Karachi"
+            },
+            {
+                "url": "/service/industrial-solar-mounting-structure-in-karachi",
+                "words": 2086,
+                "title": "Industrial Solar Mounting Structure in Karachi"
+            },
+            {
+                "url": "/service/commercial-solar-mounting-structure-in-karachi",
+                "words": 2086,
+                "title": "Commercial Solar Mounting Structure in Karachi"
+            },
+            {
+                "url": "/service/residential-solar-panel-structure-in-karachi",
+                "words": 2086,
+                "title": "Residential Solar Panel Structure in Karachi"
+            },
+            {
+                "url": "/service/utility-scale-solar-farm-structure-in-karachi",
+                "words": 2086,
+                "title": "Utility-Scale Solar Farm Structure in Karachi"
+            },
+            {
+                "url": "/service/large-scale-solar-farm-mounting-structure-in-karachi",
+                "words": 2096,
+                "title": "Large-Scale Solar Farm Mounting Structure in Karachi"
+            },
+            {
+                "url": "/service/solar-panel-support-structure-in-karachi",
+                "words": 2086,
+                "title": "Solar Panel Support Structure in Karachi"
+            },
+            {
+                "url": "/service/solar-panel-frame-fabrication-in-karachi",
+                "words": 2086,
+                "title": "Solar Panel Frame Fabrication in Karachi"
+            },
+            {
+                "url": "/service/solar-structure-types-in-karachi",
+                "words": 2076,
+                "title": "Solar Structure Types in Karachi"
+            },
+            {
+                "url": "/service/fixed-tilt-solar-farm-structure-in-karachi",
+                "words": 2086,
+                "title": "Fixed-Tilt Solar Farm Structure in Karachi"
+            },
+            {
+                "url": "/service/adjustable-solar-panel-mounting-structure-in-karachi",
+                "words": 2096,
+                "title": "Adjustable Solar Panel Mounting Structure in Karachi"
+            },
+            {
+                "url": "/service/single-axis-solar-tracker-structure-in-karachi",
+                "words": 2086,
+                "title": "Single-Axis Solar Tracker Structure in Karachi"
+            },
+            {
+                "url": "/service/dual-axis-solar-tracker-structure-in-karachi",
+                "words": 2086,
+                "title": "Dual-Axis Solar Tracker Structure in Karachi"
+            },
+            {
+                "url": "/service/solar-carport-structure-in-karachi",
+                "words": 2076,
+                "title": "Solar Carport Structure in Karachi"
+            },
+            {
+                "url": "/service/solar-parking-shade-structure-in-karachi",
+                "words": 2086,
+                "title": "Solar Parking Shade Structure in Karachi"
+            },
+            {
+                "url": "/service/solar-canopy-structure-in-karachi",
+                "words": 2076,
+                "title": "Solar Canopy Structure in Karachi"
+            },
+            {
+                "url": "/service/solar-pergola-structure-in-karachi",
+                "words": 2076,
+                "title": "Solar Pergola Structure in Karachi"
+            },
+            {
+                "url": "/service/solar-structure-materials-in-karachi",
+                "words": 2076,
+                "title": "Solar Structure Materials in Karachi"
+            },
+            {
+                "url": "/service/galvanized-steel-solar-structure-in-karachi",
+                "words": 2086,
+                "title": "Galvanized Steel Solar Structure in Karachi"
+            },
+            {
+                "url": "/service/hot-dip-galvanized-solar-mounting-structure-in-karachi",
+                "words": 2096,
+                "title": "Hot-Dip Galvanized Solar Mounting Structure in Karachi"
+            },
+            {
+                "url": "/service/aluminium-solar-panel-mounting-structure-in-karachi",
+                "words": 2096,
+                "title": "Aluminium Solar Panel Mounting Structure in Karachi"
+            },
+            {
+                "url": "/service/heavy-duty-solar-farm-structure-in-karachi",
+                "words": 2086,
+                "title": "Heavy-Duty Solar Farm Structure in Karachi"
+            },
+            {
+                "url": "/service/wind-resistant-solar-mounting-structure-in-karachi",
+                "words": 2086,
+                "title": "Wind-Resistant Solar Mounting Structure in Karachi"
+            },
+            {
+                "url": "/service/corrosion-resistant-solar-structure-in-karachi",
+                "words": 2076,
+                "title": "Corrosion-Resistant Solar Structure in Karachi"
+            },
+            {
+                "url": "/service/solar-structures-by-application",
+                "words": 2066,
+                "title": "Solar Structures by Application"
+            },
+            {
+                "url": "/service/solar-structure-for-industrial-projects-in-karachi",
+                "words": 2096,
+                "title": "Solar Structure for Industrial Projects in Karachi"
+            },
+            {
+                "url": "/service/solar-structure-for-commercial-buildings-in-karachi",
+                "words": 2096,
+                "title": "Solar Structure for Commercial Buildings in Karachi"
+            },
+            {
+                "url": "/service/solar-structure-for-factory-rooftops-in-karachi",
+                "words": 2096,
+                "title": "Solar Structure for Factory Rooftops in Karachi"
+            },
+            {
+                "url": "/service/solar-structure-for-warehouse-rooftops-in-karachi",
+                "words": 2096,
+                "title": "Solar Structure for Warehouse Rooftops in Karachi"
+            },
+            {
+                "url": "/service/solar-structure-for-industrial-sheds-in-karachi",
+                "words": 2096,
+                "title": "Solar Structure for Industrial Sheds in Karachi"
+            },
+            {
+                "url": "/service/solar-structure-for-parking-lots-in-karachi",
+                "words": 2096,
+                "title": "Solar Structure for Parking Lots in Karachi"
+            },
+            {
+                "url": "/service/solar-structure-for-agricultural-land-in-karachi",
+                "words": 2096,
+                "title": "Solar Structure for Agricultural Land in Karachi"
+            },
+            {
+                "url": "/service/solar-structure-for-open-land-solar-projects-in-karachi",
+                "words": 2116,
+                "title": "Solar Structure for Open Land Solar Projects in Karachi"
+            },
+            {
+                "url": "/service/solar-structure-for-large-solar-power-plants-in-karachi",
+                "words": 2116,
+                "title": "Solar Structure for Large Solar Power Plants in Karachi"
+            },
+            {
+                "url": "/service/solar-structure-for-high-wind-areas-in-karachi",
+                "words": 2096,
+                "title": "Solar Structure for High-Wind Areas in Karachi"
+            },
+            {
+                "url": "/service/solar-structure-for-coastal-areas-in-karachi",
+                "words": 2096,
+                "title": "Solar Structure for Coastal Areas in Karachi"
+            },
+            {
+                "url": "/service/structure-capacity-prices-in-karachi",
+                "words": 2063,
+                "title": "Structure Capacity & Prices in Karachi"
+            },
+            {
+                "url": "/service/solar-structure-for-10kw-solar-system-in-karachi",
+                "words": 2106,
+                "title": "Solar Structure for 10kW Solar System in Karachi"
+            },
+            {
+                "url": "/service/solar-structure-for-50kw-solar-system-in-karachi",
+                "words": 2106,
+                "title": "Solar Structure for 50kW Solar System in Karachi"
+            },
+            {
+                "url": "/service/solar-structure-for-100kw-solar-system-in-karachi",
+                "words": 2106,
+                "title": "Solar Structure for 100kW Solar System in Karachi"
+            },
+            {
+                "url": "/service/solar-structure-for-500kw-solar-farm-in-karachi",
+                "words": 2106,
+                "title": "Solar Structure for 500kW Solar Farm in Karachi"
+            },
+            {
+                "url": "/service/solar-structure-for-1mw-solar-power-plant-in-karachi",
+                "words": 2116,
+                "title": "Solar Structure for 1MW Solar Power Plant in Karachi"
+            },
+            {
+                "url": "/service/solar-farm-structure-price-in-karachi",
+                "words": 2086,
+                "title": "Solar Farm Structure Price in Karachi"
+            },
+            {
+                "url": "/service/solar-panel-mounting-structure-price-in-karachi",
+                "words": 2096,
+                "title": "Solar Panel Mounting Structure Price in Karachi"
+            },
+            {
+                "url": "/service/ground-mounted-solar-structure-cost-in-karachi",
+                "words": 2086,
+                "title": "Ground-Mounted Solar Structure Cost in Karachi"
+            },
+            {
+                "url": "/service/rooftop-solar-structure-price-in-karachi",
+                "words": 2086,
+                "title": "Rooftop Solar Structure Price in Karachi"
+            },
+            {
+                "url": "/service/galvanized-solar-structure-price-in-karachi",
+                "words": 2086,
+                "title": "Galvanized Solar Structure Price in Karachi"
+            },
+            {
+                "url": "/service/aluminium-solar-mounting-structure-price-in-karachi",
+                "words": 2096,
+                "title": "Aluminium Solar Mounting Structure Price in Karachi"
+            },
+            {
+                "url": "/service/solar-mounting-structure-per-kw-price-in-karachi",
+                "words": 2106,
+                "title": "Solar Mounting Structure per kW Price in Karachi"
+            },
+            {
+                "url": "/service/services-design-engineering",
+                "words": 2043,
+                "title": "Services, Design & Engineering"
+            },
+            {
+                "url": "/service/solar-structure-installation-services-in-karachi",
+                "words": 2086,
+                "title": "Solar Structure Installation Services in Karachi"
+            },
+            {
+                "url": "/service/solar-structure-fabrication-services-in-karachi",
+                "words": 2086,
+                "title": "Solar Structure Fabrication Services in Karachi"
+            },
+            {
+                "url": "/service/solar-farm-structure-maintenance-in-karachi",
+                "words": 2086,
+                "title": "Solar Farm Structure Maintenance in Karachi"
+            },
+            {
+                "url": "/service/solar-farm-structure-repair-in-karachi",
+                "words": 2086,
+                "title": "Solar Farm Structure Repair in Karachi"
+            },
+            {
+                "url": "/service/solar-structure-design-and-engineering-in-karachi",
+                "words": 2096,
+                "title": "Solar Structure Design and Engineering in Karachi"
+            },
+            {
+                "url": "/service/wind-resistant-solar-structure-design-in-karachi",
+                "words": 2086,
+                "title": "Wind-Resistant Solar Structure Design in Karachi"
+            },
+            {
+                "url": "/service/solar-structure-for-karachis-hot-and-humid-climate",
+                "words": 2116,
+                "title": "Solar Structure for Karachi's Hot and Humid Climate"
+            },
+            {
+                "url": "/service/solar-structure-design-for-coastal-areas-in-karachi",
+                "words": 2106,
+                "title": "Solar Structure Design for Coastal Areas in Karachi"
+            },
+            {
+                "url": "/service/solar-structure-supplier-for-epc-contractors-in-karachi",
+                "words": 2106,
+                "title": "Solar Structure Supplier for EPC Contractors in Karachi"
+            },
+            {
+                "url": "/service/wholesale-solar-mounting-structures-in-karachi",
+                "words": 2086,
+                "title": "Wholesale Solar Mounting Structures in Karachi"
+            },
+            {
+                "url": "/service/structure-installation-areas-in-karachi",
+                "words": 2053,
+                "title": "Structure Installation Areas in Karachi"
+            },
+            {
+                "url": "/service/solar-structure-installation-in-dha-karachi",
+                "words": 2086,
+                "title": "Solar Structure Installation in DHA Karachi"
+            },
+            {
+                "url": "/service/solar-structure-installation-in-korangi-karachi",
+                "words": 2086,
+                "title": "Solar Structure Installation in Korangi Karachi"
+            },
+            {
+                "url": "/service/solar-structure-installation-in-site-industrial-area-karachi",
+                "words": 2106,
+                "title": "Solar Structure Installation in SITE Industrial Area Karachi"
+            },
+            {
+                "url": "/service/solar-structure-installation-in-port-qasim-karachi",
+                "words": 2096,
+                "title": "Solar Structure Installation in Port Qasim Karachi"
+            },
+            {
+                "url": "/service/solar-structure-installation-in-landhi-karachi",
+                "words": 2086,
+                "title": "Solar Structure Installation in Landhi Karachi"
+            },
+            {
+                "url": "/service/solar-structure-installation-in-malir-karachi",
+                "words": 2086,
+                "title": "Solar Structure Installation in Malir Karachi"
+            },
+            {
+                "url": "/service/solar-structure-installation-in-north-karachi",
+                "words": 2086,
+                "title": "Solar Structure Installation in North Karachi"
+            },
+            {
+                "url": "/service/solar-structure-installation-in-gulshan-e-iqbal-karachi",
+                "words": 2086,
+                "title": "Solar Structure Installation in Gulshan-e-Iqbal Karachi"
+            },
+            {
+                "url": "/service/solar-structure-installation-in-shahrah-e-faisal-karachi",
+                "words": 2086,
+                "title": "Solar Structure Installation in Shahrah-e-Faisal Karachi"
+            },
+            {
+                "url": "/service/cctv-cameras",
+                "words": 2016,
+                "title": "CCTV Cameras"
+            },
+            {
+                "url": "/service/ip-cctv-cameras",
+                "words": 2026,
+                "title": "IP CCTV Cameras"
+            },
+            {
+                "url": "/service/hd-cctv-cameras",
+                "words": 2026,
+                "title": "HD CCTV Cameras"
+            },
+            {
+                "url": "/service/wifi-cctv-cameras",
+                "words": 2026,
+                "title": "WiFi CCTV Cameras"
+            },
+            {
+                "url": "/service/wireless-security-cameras",
+                "words": 2026,
+                "title": "Wireless Security Cameras"
+            },
+            {
+                "url": "/service/indoor-cctv-cameras",
+                "words": 2026,
+                "title": "Indoor CCTV Cameras"
+            },
+            {
+                "url": "/service/outdoor-cctv-cameras",
+                "words": 2026,
+                "title": "Outdoor CCTV Cameras"
+            },
+            {
+                "url": "/service/dome-cctv-cameras",
+                "words": 2026,
+                "title": "Dome CCTV Cameras"
+            },
+            {
+                "url": "/service/bullet-cctv-cameras",
+                "words": 2026,
+                "title": "Bullet CCTV Cameras"
+            },
+            {
+                "url": "/service/ptz-cctv-cameras",
+                "words": 2026,
+                "title": "PTZ CCTV Cameras"
+            },
+            {
+                "url": "/service/4k-cctv-cameras",
+                "words": 2026,
+                "title": "4K CCTV Cameras"
+            },
+            {
+                "url": "/service/night-vision-cctv-cameras",
+                "words": 2036,
+                "title": "Night Vision CCTV Cameras"
+            },
+            {
+                "url": "/service/smart-cctv-cameras",
+                "words": 2026,
+                "title": "Smart CCTV Cameras"
+            },
+            {
+                "url": "/service/cctv-solutions-in-karachi",
+                "words": 2036,
+                "title": "CCTV Solutions in Karachi"
+            },
+            {
+                "url": "/service/home-cctv-camera-systems",
+                "words": 2036,
+                "title": "Home CCTV Camera Systems"
+            },
+            {
+                "url": "/service/residential-security-cameras",
+                "words": 2026,
+                "title": "Residential Security Cameras"
+            },
+            {
+                "url": "/service/commercial-cctv-systems",
+                "words": 2026,
+                "title": "Commercial CCTV Systems"
+            },
+            {
+                "url": "/service/office-cctv-camera-systems",
+                "words": 2036,
+                "title": "Office CCTV Camera Systems"
+            },
+            {
+                "url": "/service/shop-cctv-camera-systems",
+                "words": 2036,
+                "title": "Shop CCTV Camera Systems"
+            },
+            {
+                "url": "/service/factory-cctv-systems",
+                "words": 2026,
+                "title": "Factory CCTV Systems"
+            },
+            {
+                "url": "/service/warehouse-cctv-systems",
+                "words": 2026,
+                "title": "Warehouse CCTV Systems"
+            },
+            {
+                "url": "/service/school-cctv-systems",
+                "words": 2026,
+                "title": "School CCTV Systems"
+            },
+            {
+                "url": "/service/hospital-cctv-systems",
+                "words": 2026,
+                "title": "Hospital CCTV Systems"
+            },
+            {
+                "url": "/service/industrial-security-camera-systems",
+                "words": 2036,
+                "title": "Industrial Security Camera Systems"
+            },
+            {
+                "url": "/service/wireless-cctv-solutions",
+                "words": 2026,
+                "title": "Wireless CCTV Solutions"
+            },
+            {
+                "url": "/service/remote-monitoring-systems",
+                "words": 2026,
+                "title": "Remote Monitoring Systems"
+            },
+            {
+                "url": "/service/cctv-services-amc",
+                "words": 2036,
+                "title": "CCTV Services & AMC"
+            },
+            {
+                "url": "/service/cctv-camera-installation",
+                "words": 2026,
+                "title": "CCTV Camera Installation"
+            },
+            {
+                "url": "/service/cctv-camera-repair",
+                "words": 2026,
+                "title": "CCTV Camera Repair"
+            },
+            {
+                "url": "/service/cctv-maintenance",
+                "words": 2016,
+                "title": "CCTV Maintenance"
+            },
+            {
+                "url": "/service/dvr-installation-and-configuration",
+                "words": 2036,
+                "title": "DVR Installation and Configuration"
+            },
+            {
+                "url": "/service/nvr-installation-and-configuration",
+                "words": 2036,
+                "title": "NVR Installation and Configuration"
+            },
+            {
+                "url": "/service/cctv-wiring-and-cabling",
+                "words": 2036,
+                "title": "CCTV Wiring and Cabling"
+            },
+            {
+                "url": "/service/mobile-cctv-viewing-setup",
+                "words": 2036,
+                "title": "Mobile CCTV Viewing Setup"
+            },
+            {
+                "url": "/service/cctv-system-upgrades",
+                "words": 2026,
+                "title": "CCTV System Upgrades"
+            },
+            {
+                "url": "/service/cctv-annual-maintenance-contracts",
+                "words": 2036,
+                "title": "CCTV Annual Maintenance Contracts"
+            },
+            {
+                "url": "/service/cctv-prices-brands-accessories",
+                "words": 2046,
+                "title": "CCTV Prices, Brands & Accessories"
+            },
+            {
+                "url": "/service/cctv-camera-price-in-karachi",
+                "words": 2046,
+                "title": "CCTV Camera Price in Karachi"
+            },
+            {
+                "url": "/service/ip-camera-price-in-karachi",
+                "words": 2046,
+                "title": "IP Camera Price in Karachi"
+            },
+            {
+                "url": "/service/wifi-camera-price-in-karachi",
+                "words": 2046,
+                "title": "WiFi Camera Price in Karachi"
+            },
+            {
+                "url": "/service/hd-4k-cctv-camera-prices-in-karachi",
+                "words": 2076,
+                "title": "HD & 4K CCTV Camera Prices in Karachi"
+            },
+            {
+                "url": "/service/cctv-camera-packages-and-installation-prices",
+                "words": 2056,
+                "title": "CCTV Camera Packages and Installation Prices"
+            },
+            {
+                "url": "/service/hikvision-cctv-cameras",
+                "words": 2026,
+                "title": "Hikvision CCTV Cameras"
+            },
+            {
+                "url": "/service/dahua-cctv-cameras",
+                "words": 2026,
+                "title": "Dahua CCTV Cameras"
+            },
+            {
+                "url": "/service/uniview-cctv-cameras",
+                "words": 2026,
+                "title": "Uniview CCTV Cameras"
+            },
+            {
+                "url": "/service/ezviz-security-cameras",
+                "words": 2026,
+                "title": "EZVIZ Security Cameras"
+            },
+            {
+                "url": "/service/imou-security-cameras",
+                "words": 2026,
+                "title": "Imou Security Cameras"
+            },
+            {
+                "url": "/service/tp-link-tapo-cameras",
+                "words": 2026,
+                "title": "TP-Link Tapo Cameras"
+            },
+            {
+                "url": "/service/dvr-nvr-recorders",
+                "words": 2036,
+                "title": "DVR & NVR Recorders"
+            },
+            {
+                "url": "/service/cctv-hard-drives-storage",
+                "words": 2046,
+                "title": "CCTV Hard Drives & Storage"
+            },
+            {
+                "url": "/service/poe-switches-cctv-accessories",
+                "words": 2046,
+                "title": "PoE Switches & CCTV Accessories"
+            },
+            {
+                "url": "/service/lithium-battery-products-services",
+                "words": 2031,
+                "title": "Lithium Battery Products & Services"
+            },
+            {
+                "url": "/service/lithium-battery-in-karachi",
+                "words": 2021,
+                "title": "Lithium Battery in Karachi"
+            },
+            {
+                "url": "/service/lifepo4-battery-in-karachi",
+                "words": 2021,
+                "title": "LiFePO\u2084 Battery in Karachi"
+            },
+            {
+                "url": "/service/lithium-iron-phosphate-battery",
+                "words": 2021,
+                "title": "Lithium Iron Phosphate Battery"
+            },
+            {
+                "url": "/service/solar-lithium-battery",
+                "words": 2056,
+                "title": "Solar Lithium Battery"
+            },
+            {
+                "url": "/service/lithium-energy-storage-system",
+                "words": 2021,
+                "title": "Lithium Energy Storage System"
+            },
+            {
+                "url": "/service/lithium-battery-supplier-in-karachi",
+                "words": 2031,
+                "title": "Lithium Battery Supplier in Karachi"
+            },
+            {
+                "url": "/service/lithium-battery-dealer-in-karachi",
+                "words": 2031,
+                "title": "Lithium Battery Dealer in Karachi"
+            },
+            {
+                "url": "/service/lithium-battery-wholesale-in-karachi",
+                "words": 2031,
+                "title": "Lithium Battery Wholesale in Karachi"
+            },
+            {
+                "url": "/service/residential-lithium-batteries",
+                "words": 2011,
+                "title": "Residential Lithium Batteries"
+            },
+            {
+                "url": "/service/home-lithium-battery",
+                "words": 2011,
+                "title": "Home Lithium Battery"
+            },
+            {
+                "url": "/service/lithium-battery-for-home-solar-system",
+                "words": 2086,
+                "title": "Lithium Battery for Home Solar System"
+            },
+            {
+                "url": "/service/lithium-battery-for-home-ups",
+                "words": 2031,
+                "title": "Lithium Battery for Home UPS"
+            },
+            {
+                "url": "/service/lithium-battery-for-home-backup",
+                "words": 2031,
+                "title": "Lithium Battery for Home Backup"
+            },
+            {
+                "url": "/service/lithium-battery-for-household-inverter",
+                "words": 2031,
+                "title": "Lithium Battery for Household Inverter"
+            },
+            {
+                "url": "/service/12v-100ah-lithium-battery",
+                "words": 2021,
+                "title": "12V 100Ah Lithium Battery"
+            },
+            {
+                "url": "/service/12v-200ah-lithium-battery",
+                "words": 2021,
+                "title": "12V 200Ah Lithium Battery"
+            },
+            {
+                "url": "/service/24v-100ah-lithium-battery",
+                "words": 2021,
+                "title": "24V 100Ah Lithium Battery"
+            },
+            {
+                "url": "/service/24v-200ah-lithium-battery",
+                "words": 2021,
+                "title": "24V 200Ah Lithium Battery"
+            },
+            {
+                "url": "/service/48v-100ah-lithium-battery",
+                "words": 2021,
+                "title": "48V 100Ah Lithium Battery"
+            },
+            {
+                "url": "/service/512v-100ah-solar-battery",
+                "words": 2066,
+                "title": "51.2V 100Ah Solar Battery"
+            },
+            {
+                "url": "/service/5kwh-home-lithium-battery",
+                "words": 2021,
+                "title": "5kWh Home Lithium Battery"
+            },
+            {
+                "url": "/service/10kwh-home-battery-storage",
+                "words": 2021,
+                "title": "10kWh Home Battery Storage"
+            },
+            {
+                "url": "/service/home-solar-energy-storage-battery",
+                "words": 2076,
+                "title": "Home Solar Energy Storage Battery"
+            },
+            {
+                "url": "/service/commercial-industrial-lithium-batteries",
+                "words": 2031,
+                "title": "Commercial & Industrial Lithium Batteries"
+            },
+            {
+                "url": "/service/commercial-lithium-battery-supplier",
+                "words": 2021,
+                "title": "Commercial Lithium Battery Supplier"
+            },
+            {
+                "url": "/service/commercial-solar-battery-storage",
+                "words": 2066,
+                "title": "Commercial Solar Battery Storage"
+            },
+            {
+                "url": "/service/commercial-energy-storage-system",
+                "words": 2021,
+                "title": "Commercial Energy Storage System"
+            },
+            {
+                "url": "/service/lithium-battery-for-office-backup",
+                "words": 2031,
+                "title": "Lithium Battery for Office Backup"
+            },
+            {
+                "url": "/service/lithium-battery-for-shop-backup",
+                "words": 2031,
+                "title": "Lithium Battery for Shop Backup"
+            },
+            {
+                "url": "/service/lithium-battery-for-warehouse",
+                "words": 2021,
+                "title": "Lithium Battery for Warehouse"
+            },
+            {
+                "url": "/service/lithium-battery-for-factory",
+                "words": 2021,
+                "title": "Lithium Battery for Factory"
+            },
+            {
+                "url": "/service/lithium-battery-for-industrial-solar-system",
+                "words": 2086,
+                "title": "Lithium Battery for Industrial Solar System"
+            },
+            {
+                "url": "/service/10kwh-commercial-lithium-battery",
+                "words": 2021,
+                "title": "10kWh Commercial Lithium Battery"
+            },
+            {
+                "url": "/service/15kwh-commercial-battery-storage",
+                "words": 2021,
+                "title": "15kWh Commercial Battery Storage"
+            },
+            {
+                "url": "/service/20kwh-commercial-lithium-battery",
+                "words": 2021,
+                "title": "20kWh Commercial Lithium Battery"
+            },
+            {
+                "url": "/service/30kwh-commercial-battery-storage",
+                "words": 2021,
+                "title": "30kWh Commercial Battery Storage"
+            },
+            {
+                "url": "/service/50kwh-commercial-lithium-battery",
+                "words": 2021,
+                "title": "50kWh Commercial Lithium Battery"
+            },
+            {
+                "url": "/service/100kwh-commercial-energy-storage",
+                "words": 2021,
+                "title": "100kWh Commercial Energy Storage"
+            },
+            {
+                "url": "/service/200kwh-industrial-battery-storage",
+                "words": 2021,
+                "title": "200kWh Industrial Battery Storage"
+            },
+            {
+                "url": "/service/high-capacity-lifepo4-battery",
+                "words": 2021,
+                "title": "High Capacity LiFePO\u2084 Battery"
+            },
+            {
+                "url": "/service/three-phase-inverter-battery-storage",
+                "words": 2031,
+                "title": "Three Phase Inverter Battery Storage"
+            },
+            {
+                "url": "/service/industrial-lithium-battery-bank",
+                "words": 2021,
+                "title": "Industrial Lithium Battery Bank"
+            },
+            {
+                "url": "/service/lithium-battery-prices-in-karachi",
+                "words": 2031,
+                "title": "Lithium Battery Prices in Karachi"
+            },
+            {
+                "url": "/service/residential-lithium-battery-prices",
+                "words": 2021,
+                "title": "Residential Lithium Battery Prices"
+            },
+            {
+                "url": "/service/commercial-lithium-battery-prices",
+                "words": 2021,
+                "title": "Commercial Lithium Battery Prices"
+            },
+            {
+                "url": "/service/industrial-lithium-battery-prices",
+                "words": 2021,
+                "title": "Industrial Lithium Battery Prices"
+            },
+            {
+                "url": "/service/wholesale-lithium-battery-prices",
+                "words": 2021,
+                "title": "Wholesale Lithium Battery Prices"
+            },
+            {
+                "url": "/server-room-overheating-emergency-cooling",
+                "words": 4351,
+                "title": "server room overheating emergency cooling"
+            },
+            {
+                "url": "/why-use-parallel-generators-vs-single-unit",
+                "words": 3752,
+                "title": "why use parallel generators vs single unit"
+            },
+            {
+                "url": "/air-cooled-vs-water-cooled-packaged-chillers",
+                "words": 3035,
+                "title": "air cooled vs water cooled packaged chillers"
+            },
+            {
+                "url": "/concrete-temperature-control-chilled-water-uae",
+                "words": 3175,
+                "title": "concrete temperature control chilled water uae"
+            },
+            {
+                "url": "/spot-coolers-vs-ducted-package-ac",
+                "words": 2971,
+                "title": "spot coolers vs ducted package ac"
+            },
+            {
+                "url": "/managing-heat-stress-uae-industrial-facilities",
+                "words": 3191,
+                "title": "managing heat stress uae industrial facilities"
+            },
+            {
+                "url": "/emergency-generator-hire-uae",
+                "words": 4476,
+                "title": "emergency generator hire UAE"
+            },
+            {
+                "url": "/choosing-the-right-industrial-chiller-rental-for-your-uae-facility",
+                "words": 2347,
+                "title": "Choosing the Right Industrial Chiller Rental for Your UAE Facility"
+            },
+            {
+                "url": "/complete-guide-to-buying-a-portacabin-for-sale-in-dubai-2026",
+                "words": 1555,
+                "title": "Complete Guide to Buying a Portacabin for Sale in Dubai 2026"
+            },
+            {
+                "url": "/how-diesel-generators-perform-in-uaes-extreme-heat",
+                "words": 1927,
+                "title": "How Diesel Generators Perform in UAE\u2019s Extreme Heat"
+            },
+            {
+                "url": "/temporary-cooling-options-in-the-uae",
+                "words": 2148,
+                "title": "Temporary Cooling Options in the UAE"
+            },
+            {
+                "url": "/how-to-prepare-a-construction-site-before-generator-delivery-in-the-uae",
+                "words": 1611,
+                "title": "How to Prepare a Construction Site Before Generator Delivery in the UAE"
+            }
+        ]
+    },
+    "headings": {
+        "missing_h1": [],
+        "missing_h2": []
+    },
+    "topical_relevance": {
+        "fwb_core_karachi": [
+            "/service/solar-installation-karachi",
+            "/service/solar-frame-structure-karachi",
+            "/service/cctv-services-karachi",
+            "/service/lithium-batteries-karachi",
+            "/service/solar-panel-installation-karachi",
+            "/service/solar-solutions-karachi",
+            "/service/solar-systems-by-type-karachi",
+            "/service/solar-systems-by-capacity-karachi",
+            "/service/solar-panels-and-equipment-karachi",
+            "/service/solar-system-prices-karachi",
+            "/service/solar-services-karachi",
+            "/service/solar-installation-areas-karachi",
+            "/service/solar-mounting-structures-karachi",
+            "/service/solar-structure-types-karachi",
+            "/service/solar-structure-materials-karachi",
+            "/service/solar-structures-by-application-karachi",
+            "/service/solar-farm-structure-prices-karachi",
+            "/service/solar-structure-design-and-engineering-karachi",
+            "/service/cctv-cameras-karachi",
+            "/service/cctv-solutions-karachi",
+            "/service/cctv-services-installation-karachi",
+            "/service/cctv-camera-prices-karachi",
+            "/service/cctv-brands-karachi",
+            "/service/residential-lithium-batteries-karachi",
+            "/service/commercial-industrial-lithium-batteries-karachi",
+            "/service/lithium-battery-prices-karachi",
+            "/service/solar-panel-installation",
+            "/service/residential-solar-panel-installation-in-karachi",
+            "/service/commercial-solar-panel-installation-in-karachi",
+            "/service/industrial-solar-panel-installation-in-karachi",
+            "/service/rooftop-solar-panel-installation-in-karachi",
+            "/service/solar-system-installation-for-new-buildings-in-karachi",
+            "/service/solar-solutions-in-karachi",
+            "/service/home-solar-systems-in-karachi",
+            "/service/office-solar-systems-in-karachi",
+            "/service/shop-solar-systems-in-karachi",
+            "/service/factory-solar-systems-in-karachi",
+            "/service/warehouse-solar-systems-in-karachi",
+            "/service/school-solar-systems-in-karachi",
+            "/service/hospital-solar-systems-in-karachi",
+            "/service/restaurant-and-hotel-solar-systems-in-karachi",
+            "/service/three-phase-solar-systems-in-karachi",
+            "/service/solar-systems-by-type",
+            "/service/on-grid-solar-systems-in-karachi",
+            "/service/off-grid-solar-systems-in-karachi",
+            "/service/hybrid-solar-systems-in-karachi",
+            "/service/solar-systems-with-battery-backup-in-karachi",
+            "/service/solar-systems-for-load-shedding-in-karachi",
+            "/service/grid-tied-solar-systems-in-karachi",
+            "/service/solar-systems-by-capacity",
+            "/service/3kw-solar-system-in-karachi",
+            "/service/5kw-solar-system-in-karachi",
+            "/service/6kw-solar-system-in-karachi",
+            "/service/8kw-solar-system-in-karachi",
+            "/service/10kw-solar-system-in-karachi",
+            "/service/12kw-solar-system-in-karachi",
+            "/service/15kw-solar-system-in-karachi",
+            "/service/20kw-solar-system-in-karachi",
+            "/service/30kw-solar-system-in-karachi",
+            "/service/50kw-solar-system-in-karachi",
+            "/service/100kw-commercial-solar-system-in-karachi",
+            "/service/industrial-solar-systems-above-100kw-in-karachi",
+            "/service/solar-panels-equipment",
+            "/service/solar-panels-in-karachi",
+            "/service/solar-inverters-in-karachi",
+            "/service/hybrid-solar-inverters-in-karachi",
+            "/service/solar-batteries-in-karachi",
+            "/service/lithium-solar-batteries-in-karachi",
+            "/service/solar-mounting-structures-in-karachi",
+            "/service/solar-cables-and-connectors-in-karachi",
+            "/service/solar-protection-and-earthing-equipment-in-karachi",
+            "/service/solar-system-prices-in-karachi",
+            "/service/solar-panel-installation-price-in-karachi",
+            "/service/3kw-solar-system-price-in-karachi",
+            "/service/5kw-solar-system-price-in-karachi",
+            "/service/10kw-solar-system-price-in-karachi",
+            "/service/15kw-solar-system-price-in-karachi",
+            "/service/20kw-solar-system-price-in-karachi",
+            "/service/commercial-solar-system-price-in-karachi",
+            "/service/industrial-solar-system-cost-in-karachi",
+            "/service/solar-battery-price-in-karachi",
+            "/service/solar-inverter-price-in-karachi",
+            "/service/solar-services-in-karachi",
+            "/service/solar-system-maintenance-in-karachi",
+            "/service/solar-panel-cleaning-in-karachi",
+            "/service/solar-inverter-repair-in-karachi",
+            "/service/solar-system-troubleshooting-in-karachi",
+            "/service/solar-system-upgrades-in-karachi",
+            "/service/solar-battery-installation-in-karachi",
+            "/service/solar-system-inspection-in-karachi",
+            "/service/solar-installation-areas-in-karachi",
+            "/service/solar-panel-installation-in-dha-karachi",
+            "/service/solar-panel-installation-in-clifton-karachi",
+            "/service/solar-panel-installation-in-gulshan-e-iqbal-karachi",
+            "/service/solar-panel-installation-in-gulistan-e-johar-karachi",
+            "/service/solar-panel-installation-in-north-nazimabad-karachi",
+            "/service/solar-panel-installation-in-pechs-karachi",
+            "/service/solar-panel-installation-in-scheme-33-karachi",
+            "/service/solar-panel-installation-in-korangi-karachi",
+            "/service/solar-panel-installation-in-malir-karachi",
+            "/service/solar-panel-installation-in-shahrah-e-faisal-karachi",
+            "/service/solar-farm-structure-in-karachi",
+            "/service/solar-farm-structure-installation-in-karachi",
+            "/service/solar-farm-structure-supplier-in-karachi",
+            "/service/solar-farm-structure-manufacturer-in-karachi",
+            "/service/solar-farm-structure-fabrication-in-karachi",
+            "/service/solar-farm-structure-design-in-karachi",
+            "/service/custom-solar-farm-structure-in-karachi",
+            "/service/solar-mounting-structure-engineering-in-karachi",
+            "/service/ground-mounted-solar-structure-in-karachi",
+            "/service/rooftop-solar-mounting-structure-in-karachi",
+            "/service/industrial-solar-mounting-structure-in-karachi",
+            "/service/commercial-solar-mounting-structure-in-karachi",
+            "/service/residential-solar-panel-structure-in-karachi",
+            "/service/utility-scale-solar-farm-structure-in-karachi",
+            "/service/large-scale-solar-farm-mounting-structure-in-karachi",
+            "/service/solar-panel-support-structure-in-karachi",
+            "/service/solar-panel-frame-fabrication-in-karachi",
+            "/service/solar-structure-types-in-karachi",
+            "/service/fixed-tilt-solar-farm-structure-in-karachi",
+            "/service/adjustable-solar-panel-mounting-structure-in-karachi",
+            "/service/single-axis-solar-tracker-structure-in-karachi",
+            "/service/dual-axis-solar-tracker-structure-in-karachi",
+            "/service/solar-carport-structure-in-karachi",
+            "/service/solar-parking-shade-structure-in-karachi",
+            "/service/solar-canopy-structure-in-karachi",
+            "/service/solar-pergola-structure-in-karachi",
+            "/service/solar-structure-materials-in-karachi",
+            "/service/galvanized-steel-solar-structure-in-karachi",
+            "/service/hot-dip-galvanized-solar-mounting-structure-in-karachi",
+            "/service/aluminium-solar-panel-mounting-structure-in-karachi",
+            "/service/heavy-duty-solar-farm-structure-in-karachi",
+            "/service/wind-resistant-solar-mounting-structure-in-karachi",
+            "/service/corrosion-resistant-solar-structure-in-karachi",
+            "/service/solar-structures-by-application",
+            "/service/solar-structure-for-industrial-projects-in-karachi",
+            "/service/solar-structure-for-commercial-buildings-in-karachi",
+            "/service/solar-structure-for-factory-rooftops-in-karachi",
+            "/service/solar-structure-for-warehouse-rooftops-in-karachi",
+            "/service/solar-structure-for-industrial-sheds-in-karachi",
+            "/service/solar-structure-for-parking-lots-in-karachi",
+            "/service/solar-structure-for-agricultural-land-in-karachi",
+            "/service/solar-structure-for-open-land-solar-projects-in-karachi",
+            "/service/solar-structure-for-large-solar-power-plants-in-karachi",
+            "/service/solar-structure-for-high-wind-areas-in-karachi",
+            "/service/solar-structure-for-coastal-areas-in-karachi",
+            "/service/structure-capacity-prices-in-karachi",
+            "/service/solar-structure-for-10kw-solar-system-in-karachi",
+            "/service/solar-structure-for-50kw-solar-system-in-karachi",
+            "/service/solar-structure-for-100kw-solar-system-in-karachi",
+            "/service/solar-structure-for-500kw-solar-farm-in-karachi",
+            "/service/solar-structure-for-1mw-solar-power-plant-in-karachi",
+            "/service/solar-farm-structure-price-in-karachi",
+            "/service/solar-panel-mounting-structure-price-in-karachi",
+            "/service/ground-mounted-solar-structure-cost-in-karachi",
+            "/service/rooftop-solar-structure-price-in-karachi",
+            "/service/galvanized-solar-structure-price-in-karachi",
+            "/service/aluminium-solar-mounting-structure-price-in-karachi",
+            "/service/solar-mounting-structure-per-kw-price-in-karachi",
+            "/service/services-design-engineering",
+            "/service/solar-structure-installation-services-in-karachi",
+            "/service/solar-structure-fabrication-services-in-karachi",
+            "/service/solar-farm-structure-maintenance-in-karachi",
+            "/service/solar-farm-structure-repair-in-karachi",
+            "/service/solar-structure-design-and-engineering-in-karachi",
+            "/service/wind-resistant-solar-structure-design-in-karachi",
+            "/service/solar-structure-for-karachis-hot-and-humid-climate",
+            "/service/solar-structure-design-for-coastal-areas-in-karachi",
+            "/service/solar-structure-supplier-for-epc-contractors-in-karachi",
+            "/service/wholesale-solar-mounting-structures-in-karachi",
+            "/service/structure-installation-areas-in-karachi",
+            "/service/solar-structure-installation-in-dha-karachi",
+            "/service/solar-structure-installation-in-korangi-karachi",
+            "/service/solar-structure-installation-in-site-industrial-area-karachi",
+            "/service/solar-structure-installation-in-port-qasim-karachi",
+            "/service/solar-structure-installation-in-landhi-karachi",
+            "/service/solar-structure-installation-in-malir-karachi",
+            "/service/solar-structure-installation-in-north-karachi",
+            "/service/solar-structure-installation-in-gulshan-e-iqbal-karachi",
+            "/service/solar-structure-installation-in-shahrah-e-faisal-karachi",
+            "/service/cctv-cameras",
+            "/service/ip-cctv-cameras",
+            "/service/hd-cctv-cameras",
+            "/service/wifi-cctv-cameras",
+            "/service/wireless-security-cameras",
+            "/service/indoor-cctv-cameras",
+            "/service/outdoor-cctv-cameras",
+            "/service/dome-cctv-cameras",
+            "/service/bullet-cctv-cameras",
+            "/service/ptz-cctv-cameras",
+            "/service/4k-cctv-cameras",
+            "/service/night-vision-cctv-cameras",
+            "/service/smart-cctv-cameras",
+            "/service/cctv-solutions-in-karachi",
+            "/service/home-cctv-camera-systems",
+            "/service/residential-security-cameras",
+            "/service/commercial-cctv-systems",
+            "/service/office-cctv-camera-systems",
+            "/service/shop-cctv-camera-systems",
+            "/service/factory-cctv-systems",
+            "/service/warehouse-cctv-systems",
+            "/service/school-cctv-systems",
+            "/service/hospital-cctv-systems",
+            "/service/industrial-security-camera-systems",
+            "/service/wireless-cctv-solutions",
+            "/service/remote-monitoring-systems",
+            "/service/cctv-services-amc",
+            "/service/cctv-camera-installation",
+            "/service/cctv-camera-repair",
+            "/service/cctv-maintenance",
+            "/service/dvr-installation-and-configuration",
+            "/service/nvr-installation-and-configuration",
+            "/service/cctv-wiring-and-cabling",
+            "/service/mobile-cctv-viewing-setup",
+            "/service/cctv-system-upgrades",
+            "/service/cctv-annual-maintenance-contracts",
+            "/service/cctv-prices-brands-accessories",
+            "/service/cctv-camera-price-in-karachi",
+            "/service/ip-camera-price-in-karachi",
+            "/service/wifi-camera-price-in-karachi",
+            "/service/hd-4k-cctv-camera-prices-in-karachi",
+            "/service/cctv-camera-packages-and-installation-prices",
+            "/service/hikvision-cctv-cameras",
+            "/service/dahua-cctv-cameras",
+            "/service/uniview-cctv-cameras",
+            "/service/ezviz-security-cameras",
+            "/service/imou-security-cameras",
+            "/service/tp-link-tapo-cameras",
+            "/service/dvr-nvr-recorders",
+            "/service/cctv-hard-drives-storage",
+            "/service/poe-switches-cctv-accessories",
+            "/service/lithium-battery-products-services",
+            "/service/lithium-battery-in-karachi",
+            "/service/lifepo4-battery-in-karachi",
+            "/service/lithium-iron-phosphate-battery",
+            "/service/solar-lithium-battery",
+            "/service/lithium-energy-storage-system",
+            "/service/lithium-battery-supplier-in-karachi",
+            "/service/lithium-battery-dealer-in-karachi",
+            "/service/lithium-battery-wholesale-in-karachi",
+            "/service/residential-lithium-batteries",
+            "/service/home-lithium-battery",
+            "/service/lithium-battery-for-home-solar-system",
+            "/service/lithium-battery-for-home-ups",
+            "/service/lithium-battery-for-home-backup",
+            "/service/lithium-battery-for-household-inverter",
+            "/service/12v-100ah-lithium-battery",
+            "/service/12v-200ah-lithium-battery",
+            "/service/24v-100ah-lithium-battery",
+            "/service/24v-200ah-lithium-battery",
+            "/service/48v-100ah-lithium-battery",
+            "/service/512v-100ah-solar-battery",
+            "/service/5kwh-home-lithium-battery",
+            "/service/10kwh-home-battery-storage",
+            "/service/home-solar-energy-storage-battery",
+            "/service/commercial-industrial-lithium-batteries",
+            "/service/commercial-lithium-battery-supplier",
+            "/service/commercial-solar-battery-storage",
+            "/service/commercial-energy-storage-system",
+            "/service/lithium-battery-for-office-backup",
+            "/service/lithium-battery-for-shop-backup",
+            "/service/lithium-battery-for-warehouse",
+            "/service/lithium-battery-for-factory",
+            "/service/lithium-battery-for-industrial-solar-system",
+            "/service/10kwh-commercial-lithium-battery",
+            "/service/15kwh-commercial-battery-storage",
+            "/service/20kwh-commercial-lithium-battery",
+            "/service/30kwh-commercial-battery-storage",
+            "/service/50kwh-commercial-lithium-battery",
+            "/service/100kwh-commercial-energy-storage",
+            "/service/200kwh-industrial-battery-storage",
+            "/service/high-capacity-lifepo4-battery",
+            "/service/three-phase-inverter-battery-storage",
+            "/service/industrial-lithium-battery-bank",
+            "/service/lithium-battery-prices-in-karachi",
+            "/service/residential-lithium-battery-prices",
+            "/service/commercial-lithium-battery-prices",
+            "/service/industrial-lithium-battery-prices",
+            "/service/wholesale-lithium-battery-prices",
+            "/server-room-overheating-emergency-cooling",
+            "/spot-coolers-vs-ducted-package-ac",
+            "/how-to-prepare-your-facility-for-temporary-cooling-installation",
+            "/how-to-calculate-cooling-requirements-for-industrial-facilities",
+            "/how-to-plan-emergency-cooling-during-hvac-system-repairs",
+            "/how-to-choose-cooling-equipment-construction-site-abu-dhabi",
+            "/how-temporary-cooling-helps-prevent-production-interruptions",
+            "/difference-between-portable-office-cabin-and-site-cabin",
+            "/how-to-select-temporary-cooling-for-a-server-room-during-hvac-maintenance",
+            "/how-to-choose-temporary-cooling-for-a-manufacturing-plant-in-sharjah",
+            "/how-to-plan-cooling-for-temporary-accommodation-and-site-offices",
+            "/what-should-you-include-in-a-temporary-cooling-equipment-handover-checklist",
+            "/how-to-select-a-portable-office-cabin-for-a-construction-site",
+            "/about",
+            "/services/cooling",
+            "/cooling",
+            "/contact-us",
+            "/services",
+            "/home",
+            "/about-us"
+        ],
+        "legacy_uae_offtopic": [
+            {
+                "url": "/why-use-parallel-generators-vs-single-unit",
+                "type": "Post",
+                "title": "why use parallel generators vs single unit"
+            },
+            {
+                "url": "/air-cooled-vs-water-cooled-packaged-chillers",
+                "type": "Post",
+                "title": "air cooled vs water cooled packaged chillers"
+            },
+            {
+                "url": "/concrete-temperature-control-chilled-water-uae",
+                "type": "Post",
+                "title": "concrete temperature control chilled water uae"
+            },
+            {
+                "url": "/managing-heat-stress-uae-industrial-facilities",
+                "type": "Post",
+                "title": "managing heat stress uae industrial facilities"
+            },
+            {
+                "url": "/emergency-generator-hire-uae",
+                "type": "Post",
+                "title": "emergency generator hire UAE"
+            },
+            {
+                "url": "/a-practical-portacabin-buying-checklist-for-uae-buyers",
+                "type": "Post",
+                "title": "A Practical Portacabin Buying Checklist for UAE Buyers"
+            },
+            {
+                "url": "/choosing-the-right-industrial-chiller-rental-for-your-uae-facility",
+                "type": "Post",
+                "title": "Choosing the Right Industrial Chiller Rental for Your UAE Facility"
+            },
+            {
+                "url": "/what-to-consider-before-renting-a-chiller-in-the-uae",
+                "type": "Post",
+                "title": "What to Consider Before Renting a Chiller in the UAE"
+            },
+            {
+                "url": "/complete-guide-to-buying-a-portacabin-for-sale-in-dubai-2026",
+                "type": "Post",
+                "title": "Complete Guide to Buying a Portacabin for Sale in Dubai 2026"
+            },
+            {
+                "url": "/how-diesel-generators-perform-in-uaes-extreme-heat",
+                "type": "Post",
+                "title": "How Diesel Generators Perform in UAE\u2019s Extreme Heat"
+            },
+            {
+                "url": "/temporary-cooling-options-in-the-uae",
+                "type": "Post",
+                "title": "Temporary Cooling Options in the UAE"
+            },
+            {
+                "url": "/generator-sizing-guide-dubai-construction-kva",
+                "type": "Post",
+                "title": "Generator Sizing Guide for Dubai & UAE Construction Sites: kVA vs kW"
+            },
+            {
+                "url": "/how-to-prepare-a-construction-site-before-generator-delivery-in-the-uae",
+                "type": "Post",
+                "title": "How to Prepare a Construction Site Before Generator Delivery in the UAE"
+            },
+            {
+                "url": "/what-is-included-in-a-professional-generator-rental-agreement",
+                "type": "Post",
+                "title": "What Is Included in a Professional Generator Rental Agreement?"
+            },
+            {
+                "url": "/rental-chiller-vs-portable-ac-for-commercial-buildings-in-the-uae",
+                "type": "Post",
+                "title": "Rental Chiller vs Portable AC for Commercial Buildings in the UAE"
+            },
+            {
+                "url": "/how-to-prepare-a-site-for-portacabin-delivery-and-installation-in-the-uae",
+                "type": "Post",
+                "title": "How to Prepare a Site for Portacabin Delivery and Installation in the UAE"
+            },
+            {
+                "url": "/how-to-choose-rental-generator-construction-projects-uae",
+                "type": "Post",
+                "title": "How to Choose a Rental Generator for Construction Projects in the UAE"
+            },
+            {
+                "url": "/what-size-rental-generator-does-your-dubai-business-need",
+                "type": "Post",
+                "title": "What Size Rental Generator Does Your Dubai Business Need?"
+            },
+            {
+                "url": "/rental-generator-vs-buying-generator-long-term-projects-uae",
+                "type": "Post",
+                "title": "Rental Generator vs Buying a Generator for Long-Term Projects in the UAE"
+            },
+            {
+                "url": "/how-to-calculate-rental-generator-fuel-consumption",
+                "type": "Post",
+                "title": "How to Calculate Rental Generator Fuel Consumption"
+            },
+            {
+                "url": "/what-affects-rental-generator-prices-in-dubai",
+                "type": "Post",
+                "title": "What Affects Rental Generator Prices in Dubai?"
+            },
+            {
+                "url": "/how-to-arrange-temporary-generator-power-industrial-sites-sharjah",
+                "type": "Post",
+                "title": "How to Arrange Temporary Generator Power for Industrial Sites in Sharjah"
+            },
+            {
+                "url": "/what-generator-capacity-suitable-commercial-building-abu-dhabi",
+                "type": "Post",
+                "title": "What Generator Capacity Is Suitable for a Commercial Building in Abu Dhabi?"
+            },
+            {
+                "url": "/how-to-reduce-downtime-when-using-rental-generator-uae",
+                "type": "Post",
+                "title": "How to Reduce Downtime When Using a Rental Generator in the UAE"
+            },
+            {
+                "url": "/how-to-choose-temporary-cooling-equipment-uae-summer-conditions",
+                "type": "Post",
+                "title": "How to Choose Temporary Cooling Equipment for UAE Summer Conditions"
+            },
+            {
+                "url": "/what-cooling-capacity-does-your-dubai-warehouse-require",
+                "type": "Post",
+                "title": "What Cooling Capacity Does Your Dubai Warehouse Require?"
+            },
+            {
+                "url": "/what-determines-temporary-cooling-rental-costs-in-the-uae",
+                "type": "Post",
+                "title": "What Determines Temporary Cooling Rental Costs in the UAE?"
+            },
+            {
+                "url": "/what-is-the-difference-between-chiller-rental-and-ac-rental",
+                "type": "Post",
+                "title": "What Is the Difference Between Chiller Rental and AC Rental?"
+            },
+            {
+                "url": "/how-often-should-industrial-generators-be-serviced-in-the-uae",
+                "type": "Post",
+                "title": "How Often Should Industrial Generators Be Serviced in the UAE?"
+            },
+            {
+                "url": "/what-does-a-complete-generator-preventive-maintenance-checklist-include",
+                "type": "Post",
+                "title": "What Does a Complete Generator Preventive Maintenance Checklist Include?"
+            },
+            {
+                "url": "/why-do-diesel-generators-overheat-in-dubais-summer",
+                "type": "Post",
+                "title": "Why Do Diesel Generators Overheat in Dubai's Summer?"
+            },
+            {
+                "url": "/what-causes-low-oil-pressure-in-an-industrial-generator",
+                "type": "Post",
+                "title": "What Causes Low Oil Pressure in an Industrial Generator?"
+            },
+            {
+                "url": "/how-to-identify-early-signs-of-generator-alternator-failure",
+                "type": "Post",
+                "title": "How to Identify Early Signs of Generator Alternator Failure"
+            },
+            {
+                "url": "/what-is-included-in-a-generator-load-bank-test",
+                "type": "Post",
+                "title": "What Is Included in a Generator Load Bank Test?"
+            },
+            {
+                "url": "/how-to-maintain-generator-batteries-in-hot-weather",
+                "type": "Post",
+                "title": "How to Maintain Generator Batteries in Hot Weather"
+            },
+            {
+                "url": "/what-causes-excessive-fuel-consumption-in-diesel-generators",
+                "type": "Post",
+                "title": "What Causes Excessive Fuel Consumption in Diesel Generators?"
+            },
+            {
+                "url": "/how-to-prepare-a-standby-generator-for-emergency-operation",
+                "type": "Post",
+                "title": "How to Prepare a Standby Generator for Emergency Operation"
+            },
+            {
+                "url": "/when-should-you-schedule-generator-maintenance-for-your-facility",
+                "type": "Post",
+                "title": "When Should You Schedule Generator Maintenance for Your Facility?"
+            },
+            {
+                "url": "/what-should-you-inspect-before-buying-used-generator-uae",
+                "type": "Post",
+                "title": "What Should You Inspect Before Buying a Used Generator in the UAE?"
+            },
+            {
+                "url": "/how-to-compare-used-generator-prices-and-specifications",
+                "type": "Post",
+                "title": "How to Compare Used Generator Prices and Specifications"
+            },
+            {
+                "url": "/what-is-the-difference-between-used-and-refurbished-generators",
+                "type": "Post",
+                "title": "What Is the Difference Between Used and Refurbished Generators?"
+            },
+            {
+                "url": "/how-many-operating-hours-are-too-many-for-a-used-generator",
+                "type": "Post",
+                "title": "How Many Operating Hours Are Too Many for a Used Generator?"
+            },
+            {
+                "url": "/how-to-verify-generator-maintenance-records-before-purchase",
+                "type": "Post",
+                "title": "How to Verify Generator Maintenance Records Before Purchase"
+            },
+            {
+                "url": "/what-testing-should-a-refurbished-generator-pass-before-sale",
+                "type": "Post",
+                "title": "What Testing Should a Refurbished Generator Pass Before Sale?"
+            },
+            {
+                "url": "/how-to-choose-used-generator-industrial-facility-dubai",
+                "type": "Post",
+                "title": "How to Choose a Used Generator for an Industrial Facility in Dubai"
+            },
+            {
+                "url": "/what-determines-the-resale-value-of-a-used-diesel-generator",
+                "type": "Post",
+                "title": "What Determines the Resale Value of a Used Diesel Generator?"
+            },
+            {
+                "url": "/is-a-refurbished-generator-suitable-for-continuous-industrial-use",
+                "type": "Post",
+                "title": "Is a Refurbished Generator Suitable for Continuous Industrial Use?"
+            },
+            {
+                "url": "/how-to-calculate-the-ownership-cost-of-a-used-generator",
+                "type": "Post",
+                "title": "How to Calculate the Ownership Cost of a Used Generator"
+            },
+            {
+                "url": "/what-should-you-check-before-buying-a-portacabin-in-the-uae",
+                "type": "Post",
+                "title": "What Should You Check Before Buying a Portacabin in the UAE?"
+            },
+            {
+                "url": "/how-to-choose-the-right-portacabin-size-for-a-construction-site",
+                "type": "Post",
+                "title": "How to Choose the Right Portacabin Size for a Construction Site"
+            },
+            {
+                "url": "/how-to-inspect-a-used-portacabin-before-purchase",
+                "type": "Post",
+                "title": "How to Inspect a Used Portacabin Before Purchase"
+            },
+            {
+                "url": "/what-determines-portacabin-prices-in-the-uae",
+                "type": "Post",
+                "title": "What Determines Portacabin Prices in the UAE?"
+            },
+            {
+                "url": "/how-to-choose-an-insulated-portacabin-for-dubai-climate",
+                "type": "Post",
+                "title": "How to Choose an Insulated Portacabin for Dubai's Climate"
+            },
+            {
+                "url": "/which-portacabin-layout-is-suitable-for-construction-site-office",
+                "type": "Post",
+                "title": "Which Portacabin Layout Is Suitable for a Construction Site Office?"
+            },
+            {
+                "url": "/what-should-businesses-check-when-buying-a-used-portacabin",
+                "type": "Post",
+                "title": "What Should Businesses Check When Buying a Used Portacabin?"
+            },
+            {
+                "url": "/new-vs-used-portacabins-which-option-suits-your-business",
+                "type": "Post",
+                "title": "New vs Used Portacabins: Which Option Suits Your Business?"
+            },
+            {
+                "url": "/how-to-select-a-rental-generator-for-a-high-rise-construction-project-in-dubai",
+                "type": "Post",
+                "title": "How to Select a Rental Generator for a High-Rise Construction Project in Dubai"
+            },
+            {
+                "url": "/what-backup-generator-capacity-is-needed-for-a-shopping-mall-in-the-uae",
+                "type": "Post",
+                "title": "What Backup Generator Capacity Is Needed for a Shopping Mall in the UAE?"
+            },
+            {
+                "url": "/how-to-plan-temporary-generator-power-for-outdoor-events-in-dubai",
+                "type": "Post",
+                "title": "How to Plan Temporary Generator Power for Outdoor Events in Dubai"
+            },
+            {
+                "url": "/difference-between-single-phase-and-three-phase-rental-generators",
+                "type": "Post",
+                "title": "What Is the Difference Between Single-Phase and Three-Phase Rental Generators?"
+            },
+            {
+                "url": "/how-to-choose-a-rental-generator-for-pumps-and-water-transfer-systems",
+                "type": "Post",
+                "title": "How to Choose a Rental Generator for Pumps and Water Transfer Systems"
+            },
+            {
+                "url": "/factors-determine-delivery-installation-requirements-rental-generators-uae",
+                "type": "Post",
+                "title": "What Factors Determine Delivery and Installation Requirements for Rental Generators in the UAE?"
+            },
+            {
+                "url": "/how-to-plan-generator-rental-for-a-factory-expansion-in-sharjah",
+                "type": "Post",
+                "title": "How to Plan Generator Rental for a Factory Expansion in Sharjah"
+            },
+            {
+                "url": "/can-multiple-rental-generators-work-together-to-supply-industrial-power",
+                "type": "Post",
+                "title": "Can Multiple Rental Generators Work Together to Supply Industrial Power?"
+            },
+            {
+                "url": "/how-to-choose-rental-generator-remote-construction-sites-abu-dhabi",
+                "type": "Post",
+                "title": "How to Choose a Rental Generator for Remote Construction Sites in Abu Dhabi"
+            },
+            {
+                "url": "/what-safety-checks-should-be-completed-before-starting-a-rental-generator",
+                "type": "Post",
+                "title": "What Safety Checks Should Be Completed Before Starting a Rental Generator?"
+            },
+            {
+                "url": "/cooling-equipment-suitable-for-temporary-industrial-facilities-uae",
+                "type": "Post",
+                "title": "What Cooling Equipment Is Suitable for Temporary Industrial Facilities in the UAE?"
+            },
+            {
+                "url": "/how-to-estimate-chiller-capacity-for-a-large-commercial-building",
+                "type": "Post",
+                "title": "How to Estimate Chiller Capacity for a Large Commercial Building"
+            },
+            {
+                "url": "/difference-between-emergency-chiller-rental-and-planned-cooling-rental",
+                "type": "Post",
+                "title": "What Is the Difference Between Emergency Chiller Rental and Planned Cooling Rental?"
+            },
+            {
+                "url": "/how-to-plan-temporary-cooling-for-a-hotel-renovation-in-dubai",
+                "type": "Post",
+                "title": "How to Plan Temporary Cooling for a Hotel Renovation in Dubai"
+            },
+            {
+                "url": "/which-factors-affect-rental-chiller-performance-during-uae-summer",
+                "type": "Post",
+                "title": "Which Factors Affect Rental Chiller Performance During UAE Summer?"
+            },
+            {
+                "url": "/what-is-required-to-connect-a-rental-chiller-to-an-existing-hvac-system",
+                "type": "Post",
+                "title": "What Is Required to Connect a Rental Chiller to an Existing HVAC System?"
+            },
+            {
+                "url": "/most-important-daily-checks-for-an-industrial-diesel-generator",
+                "type": "Post",
+                "title": "What Are the Most Important Daily Checks for an Industrial Diesel Generator?"
+            },
+            {
+                "url": "/how-to-create-a-preventive-generator-maintenance-schedule-for-uae-businesses",
+                "type": "Post",
+                "title": "How to Create a Preventive Generator Maintenance Schedule for UAE Businesses"
+            },
+            {
+                "url": "/why-does-a-diesel-generator-produce-black-smoke-under-load",
+                "type": "Post",
+                "title": "Why Does a Diesel Generator Produce Black Smoke Under Load?"
+            },
+            {
+                "url": "/what-causes-a-generator-to-crank-but-not-start",
+                "type": "Post",
+                "title": "What Causes a Generator to Crank but Not Start?"
+            },
+            {
+                "url": "/how-to-identify-generator-cooling-system-problems-before-a-breakdown",
+                "type": "Post",
+                "title": "How to Identify Generator Cooling System Problems Before a Breakdown"
+            },
+            {
+                "url": "/when-should-generator-engine-oil-and-filters-be-replaced",
+                "type": "Post",
+                "title": "When Should Generator Engine Oil and Filters Be Replaced?"
+            },
+            {
+                "url": "/how-to-troubleshoot-generator-voltage-fluctuations-in-industrial-facilities",
+                "type": "Post",
+                "title": "How to Troubleshoot Generator Voltage Fluctuations in Industrial Facilities"
+            },
+            {
+                "url": "/difference-between-generator-servicing-repair-and-overhauling",
+                "type": "Post",
+                "title": "What Is the Difference Between Generator Servicing, Repair and Overhauling?"
+            },
+            {
+                "url": "/how-to-prepare-industrial-generators-for-long-periods-of-standby",
+                "type": "Post",
+                "title": "How to Prepare Industrial Generators for Long Periods of Standby"
+            },
+            {
+                "url": "/which-generator-maintenance-records-should-facility-managers-keep",
+                "type": "Post",
+                "title": "Which Generator Maintenance Records Should Facility Managers Keep?"
+            },
+            {
+                "url": "/how-to-choose-between-used-diesel-generator-and-refurbished-unit",
+                "type": "Post",
+                "title": "How to Choose Between a Used Diesel Generator and a Refurbished Unit"
+            },
+            {
+                "url": "/what-generator-test-results-should-buyers-review-before-purchase",
+                "type": "Post",
+                "title": "What Generator Test Results Should Buyers Review Before Purchase?"
+            },
+            {
+                "url": "/how-to-assess-the-condition-of-a-used-generators-control-system",
+                "type": "Post",
+                "title": "How to Assess the Condition of a Used Generator's Control System"
+            },
+            {
+                "url": "/which-generator-specifications-matter-most-when-comparing-used-units",
+                "type": "Post",
+                "title": "Which Generator Specifications Matter Most When Comparing Used Units?"
+            },
+            {
+                "url": "/how-to-calculate-the-payback-period-for-a-used-industrial-generator",
+                "type": "Post",
+                "title": "How to Calculate the Payback Period for a Used Industrial Generator"
+            },
+            {
+                "url": "/what-are-the-common-problems-found-in-older-diesel-generators",
+                "type": "Post",
+                "title": "What Are the Common Problems Found in Older Diesel Generators?"
+            },
+            {
+                "url": "/how-to-inspect-a-used-generator-before-transporting-it-to-your-site",
+                "type": "Post",
+                "title": "How to Inspect a Used Generator Before Transporting It to Your Site"
+            },
+            {
+                "url": "/what-should-businesses-know-about-refurbished-generator-spare-parts",
+                "type": "Post",
+                "title": "What Should Businesses Know About Refurbished Generator Spare Parts?"
+            },
+            {
+                "url": "/how-to-choose-used-generator-commercial-property-abu-dhabi",
+                "type": "Post",
+                "title": "How to Choose a Used Generator for a Commercial Property in Abu Dhabi"
+            },
+            {
+                "url": "/what-installation-requirements-should-you-confirm-before-buying-a-used-generator",
+                "type": "Post",
+                "title": "What Installation Requirements Should You Confirm Before Buying a Used Generator?"
+            },
+            {
+                "url": "/how-to-choose-a-portacabin-for-a-construction-project-in-dubai",
+                "type": "Post",
+                "title": "How to Choose a Portacabin for a Construction Project in Dubai"
+            },
+            {
+                "url": "/different-types-of-portacabins-available-for-uae-businesses",
+                "type": "Post",
+                "title": "What Are the Different Types of Portacabins Available for UAE Businesses?"
+            },
+            {
+                "url": "/how-to-compare-new-and-used-portacabin-prices-in-the-uae",
+                "type": "Post",
+                "title": "How to Compare New and Used Portacabin Prices in the UAE"
+            },
+            {
+                "url": "/what-insulation-features-should-you-look-for-in-a-portacabin-for-dubai-climate",
+                "type": "Post",
+                "title": "What Insulation Features Should You Look for in a Portacabin for Dubai's Climate?"
+            },
+            {
+                "url": "/what-should-you-inspect-before-purchasing-a-second-hand-portacabin",
+                "type": "Post",
+                "title": "What Should You Inspect Before Purchasing a Second-Hand Portacabin?"
+            },
+            {
+                "url": "/how-to-choose-a-portacabin-layout-for-site-offices-and-staff-facilities",
+                "type": "Post",
+                "title": "How to Choose a Portacabin Layout for Site Offices and Staff Facilities"
+            },
+            {
+                "url": "/transport-and-site-access-requirements-matter-buying-portacabin-uae",
+                "type": "Post",
+                "title": "What Transport and Site Access Requirements Matter When Buying a Portacabin in the UAE?"
+            },
+            {
+                "url": "/how-to-prepare-a-used-portacabin-for-reuse-at-a-new-project-site",
+                "type": "Post",
+                "title": "How to Prepare a Used Portacabin for Reuse at a New Project Site"
+            },
+            {
+                "url": "/what-questions-should-you-ask-a-portacabin-supplier-before-placing-an-order",
+                "type": "Post",
+                "title": "What Questions Should You Ask a Portacabin Supplier Before Placing an Order?"
+            },
+            {
+                "url": "/products/portable-generator",
+                "type": "Page",
+                "title": "Portable Generator Rental in UAE"
+            },
+            {
+                "url": "/portable-generator",
+                "type": "Page",
+                "title": "Portable Generator Rental in UAE"
+            },
+            {
+                "url": "/products/heavy-duty-industrial-generator",
+                "type": "Page",
+                "title": "Heavy Duty Industrial generator"
+            },
+            {
+                "url": "/heavy-duty-industrial-generator",
+                "type": "Page",
+                "title": "Heavy Duty Industrial generator"
+            },
+            {
+                "url": "/products/silent-generator",
+                "type": "Page",
+                "title": "Silent Generator Rental in UAE"
+            },
+            {
+                "url": "/silent-generator",
+                "type": "Page",
+                "title": "Silent Generator Rental in UAE"
+            },
+            {
+                "url": "/products/diesel-generator",
+                "type": "Page",
+                "title": "Diesel Generator Rental in UAE"
+            },
+            {
+                "url": "/diesel-generator",
+                "type": "Page",
+                "title": "Diesel Generator Rental in UAE"
+            },
+            {
+                "url": "/products",
+                "type": "Page",
+                "title": "Generator & Chiller Rental Equipment"
+            },
+            {
+                "url": "/services/cooling/packaged-ac-units-rental-uae",
+                "type": "Page",
+                "title": "Package AC Rental in UAE"
+            },
+            {
+                "url": "/packaged-ac-units-rental-uae",
+                "type": "Page",
+                "title": "Package AC Rental in UAE"
+            },
+            {
+                "url": "/services/buy-sell/portacabin-for-sale-in-uae",
+                "type": "Page",
+                "title": "Portacabin for sale in uae"
+            },
+            {
+                "url": "/portacabin-for-sale-in-uae",
+                "type": "Page",
+                "title": "Portacabin for sale in uae"
+            },
+            {
+                "url": "/services/buy-sell",
+                "type": "Page",
+                "title": "Buy & Sell Portacabins, Containers & Caravans in UAE"
+            },
+            {
+                "url": "/buy-sell",
+                "type": "Page",
+                "title": "Buy & Sell Portacabins, Containers & Caravans in UAE"
+            },
+            {
+                "url": "/services/generator",
+                "type": "Page",
+                "title": "Generator Service"
+            },
+            {
+                "url": "/generator",
+                "type": "Page",
+                "title": "Generator Service"
+            },
+            {
+                "url": "/services/buy-sell/used-container-in-uae",
+                "type": "Page",
+                "title": "Used Container in UAE"
+            },
+            {
+                "url": "/used-container-in-uae",
+                "type": "Page",
+                "title": "Used Container in UAE"
+            },
+            {
+                "url": "/services/buy-sell/used-caravan-in-uae",
+                "type": "Page",
+                "title": "Used Caravan"
+            },
+            {
+                "url": "/used-caravan-in-uae",
+                "type": "Page",
+                "title": "Used Caravan"
+            },
+            {
+                "url": "/services/buy-sell/used-chiller-ac-buyer-in-uae",
+                "type": "Page",
+                "title": "Used Chiller Buyer"
+            },
+            {
+                "url": "/used-chiller-ac-buyer-in-uae",
+                "type": "Page",
+                "title": "Used Chiller Buyer"
+            },
+            {
+                "url": "/services/buy-sell/used-chiller-in-uae",
+                "type": "Page",
+                "title": "Used Chiller"
+            },
+            {
+                "url": "/used-chiller-in-uae",
+                "type": "Page",
+                "title": "Used Chiller"
+            },
+            {
+                "url": "/services/cooling/temporary-cooling-in-uae",
+                "type": "Page",
+                "title": "Temporary Cooling in UAE"
+            },
+            {
+                "url": "/temporary-cooling-in-uae",
+                "type": "Page",
+                "title": "Temporary Cooling in UAE"
+            },
+            {
+                "url": "/services/generator/rental-generator-in-uae",
+                "type": "Page",
+                "title": "Rental Generator in UAE"
+            },
+            {
+                "url": "/rental-generator-in-uae",
+                "type": "Page",
+                "title": "Rental Generator in UAE"
+            },
+            {
+                "url": "/services/cooling/rental-chiller-in-uae",
+                "type": "Page",
+                "title": "Rental Chiller in UAE"
+            },
+            {
+                "url": "/rental-chiller-in-uae",
+                "type": "Page",
+                "title": "Rental Chiller in UAE"
+            },
+            {
+                "url": "/services/cooling/rental-ac-in-uae",
+                "type": "Page",
+                "title": "Rental AC in UAE"
+            },
+            {
+                "url": "/rental-ac-in-uae",
+                "type": "Page",
+                "title": "Rental AC in UAE"
+            },
+            {
+                "url": "/services/cooling/wild-air-in-uae",
+                "type": "Page",
+                "title": "Wild Air in UAE"
+            },
+            {
+                "url": "/wild-air-in-uae",
+                "type": "Page",
+                "title": "Wild Air in UAE"
+            },
+            {
+                "url": "/honda-generator-rental-uae",
+                "type": "Page",
+                "title": "Honda generator rental UAE"
+            },
+            {
+                "url": "/caterpillar-generator-rental-uae",
+                "type": "Page",
+                "title": "Caterpillar generator rental UAE"
+            },
+            {
+                "url": "/cummins-generator-rental-uae",
+                "type": "Page",
+                "title": "Cummins generator rental UAE"
+            },
+            {
+                "url": "/products/100-kva-generator-rental",
+                "type": "Page",
+                "title": "100 kVA Generator Rental in UAE"
+            },
+            {
+                "url": "/100-kva-generator-rental",
+                "type": "Page",
+                "title": "100 kVA Generator Rental in UAE"
+            },
+            {
+                "url": "/products/1000-kva-generator-rental",
+                "type": "Page",
+                "title": "1000 kVA Generator Rental in UAE"
+            },
+            {
+                "url": "/1000-kva-generator-rental",
+                "type": "Page",
+                "title": "1000 kVA Generator Rental in UAE"
+            },
+            {
+                "url": "/products/500kva-generator-hire",
+                "type": "Page",
+                "title": "500 kVA Generator Rental in UAE"
+            },
+            {
+                "url": "/500kva-generator-hire",
+                "type": "Page",
+                "title": "500 kVA Generator Rental in UAE"
+            },
+            {
+                "url": "/chiller-maintenance",
+                "type": "Page",
+                "title": "chiller maintenance"
+            },
+            {
+                "url": "/products/refrigeration-unit-rental-uae",
+                "type": "Page",
+                "title": "Refrigeration Unit Rental in UAE"
+            },
+            {
+                "url": "/refrigeration-unit-rental-uae",
+                "type": "Page",
+                "title": "Refrigeration Unit Rental in UAE"
+            },
+            {
+                "url": "/products/portable-chiller-rental-uae",
+                "type": "Page",
+                "title": "Portable Chiller Rental in UAE"
+            },
+            {
+                "url": "/portable-chiller-rental-uae",
+                "type": "Page",
+                "title": "Portable Chiller Rental in UAE"
+            },
+            {
+                "url": "/products/water-cooled-chiller-rental-uae",
+                "type": "Page",
+                "title": "Water Cooled Chiller Rental in UAE"
+            },
+            {
+                "url": "/water-cooled-chiller-rental-uae",
+                "type": "Page",
+                "title": "Water Cooled Chiller Rental in UAE"
+            },
+            {
+                "url": "/products/air-cooled-chiller-rental-uae",
+                "type": "Page",
+                "title": "Air Cooled Chiller Rental in UAE"
+            },
+            {
+                "url": "/air-cooled-chiller-rental-uae",
+                "type": "Page",
+                "title": "Air Cooled Chiller Rental in UAE"
+            },
+            {
+                "url": "/industrial-chiller-rental-uae",
+                "type": "Page",
+                "title": "Ultimate Solutions Industrial Chiller Rental Services in the UAE"
+            },
+            {
+                "url": "/products/portable-generator",
+                "type": "Product",
+                "title": "Portable Generator Rental in UAE"
+            },
+            {
+                "url": "/products/heavy-duty-industrial-generator",
+                "type": "Product",
+                "title": "Heavy Duty Industrial generator"
+            },
+            {
+                "url": "/products/silent-generator",
+                "type": "Product",
+                "title": "Silent Generator Rental in UAE"
+            },
+            {
+                "url": "/products/diesel-generator",
+                "type": "Product",
+                "title": "Diesel Generator Rental in UAE"
+            },
+            {
+                "url": "/products/100-kva-generator-rental",
+                "type": "Product",
+                "title": "100 kVA Generator Rental in UAE"
+            },
+            {
+                "url": "/products/1000-kva-generator-rental",
+                "type": "Product",
+                "title": "1000 kVA Generator Rental in UAE"
+            },
+            {
+                "url": "/products/500kva-generator-hire",
+                "type": "Product",
+                "title": "500 kVA Generator Rental in UAE"
+            },
+            {
+                "url": "/products/refrigeration-unit-rental-uae",
+                "type": "Product",
+                "title": "Refrigeration Unit Rental in UAE"
+            },
+            {
+                "url": "/products/portable-chiller-rental-uae",
+                "type": "Product",
+                "title": "Portable Chiller Rental in UAE"
+            },
+            {
+                "url": "/products/water-cooled-chiller-rental-uae",
+                "type": "Product",
+                "title": "Water Cooled Chiller Rental in UAE"
+            },
+            {
+                "url": "/products/air-cooled-chiller-rental-uae",
+                "type": "Product",
+                "title": "Air Cooled Chiller Rental in UAE"
+            },
+            {
+                "url": "/products/50-kva-generator-rental",
+                "type": "Product",
+                "title": "50 kVA Generator Rental in UAE"
+            },
+            {
+                "url": "/products/150-kva-generator-rental",
+                "type": "Product",
+                "title": "150 kVA Generator Rental in UAE"
+            },
+            {
+                "url": "/products/200-kva-generator-rental",
+                "type": "Product",
+                "title": "200 kVA Generator Rental in UAE"
+            },
+            {
+                "url": "/products/250-kva-generator-rental",
+                "type": "Product",
+                "title": "250 kVA Generator Rental in UAE"
+            },
+            {
+                "url": "/products/300-kva-generator-rental",
+                "type": "Product",
+                "title": "300 kVA Generator Rental in UAE"
+            },
+            {
+                "url": "/products/350-kva-generator-rental",
+                "type": "Product",
+                "title": "350 kVA Generator Rental in UAE"
+            },
+            {
+                "url": "/products/600-kva-generator-rental",
+                "type": "Product",
+                "title": "600 kVA Generator Rental in UAE"
+            },
+            {
+                "url": "/products/800-kva-generator-rental",
+                "type": "Product",
+                "title": "800 kVA Generator Rental in UAE"
+            },
+            {
+                "url": "/products/1250-kva-generator-rental",
+                "type": "Product",
+                "title": "1250 kVA Generator Rental in UAE"
+            }
+        ]
+    },
+    "content_similarity": [
+        {
+            "url_a": "/service/3kw-solar-system-in-karachi",
+            "url_b": "/service/5kw-solar-system-in-karachi",
+            "similarity": 99.88,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/3kw-solar-system-in-karachi",
+            "url_b": "/service/10kw-solar-system-in-karachi",
+            "similarity": 99.75,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/3kw-solar-system-in-karachi",
+            "url_b": "/service/solar-panel-installation-in-dha-karachi",
+            "similarity": 97.5,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/3kw-solar-system-in-karachi",
+            "url_b": "/service/solar-panel-installation-in-clifton-karachi",
+            "similarity": 97,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/3kw-solar-system-in-karachi",
+            "url_b": "/service/ip-cctv-cameras",
+            "similarity": 88.08,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/3kw-solar-system-in-karachi",
+            "url_b": "/service/hd-cctv-cameras",
+            "similarity": 88.08,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/3kw-solar-system-in-karachi",
+            "url_b": "/service/12v-100ah-lithium-battery",
+            "similarity": 88.13,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/3kw-solar-system-in-karachi",
+            "url_b": "/service/24v-100ah-lithium-battery",
+            "similarity": 88.13,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/5kw-solar-system-in-karachi",
+            "url_b": "/service/10kw-solar-system-in-karachi",
+            "similarity": 99.75,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/5kw-solar-system-in-karachi",
+            "url_b": "/service/solar-panel-installation-in-dha-karachi",
+            "similarity": 97.5,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/5kw-solar-system-in-karachi",
+            "url_b": "/service/solar-panel-installation-in-clifton-karachi",
+            "similarity": 97,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/5kw-solar-system-in-karachi",
+            "url_b": "/service/ip-cctv-cameras",
+            "similarity": 88.08,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/5kw-solar-system-in-karachi",
+            "url_b": "/service/hd-cctv-cameras",
+            "similarity": 88.08,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/5kw-solar-system-in-karachi",
+            "url_b": "/service/12v-100ah-lithium-battery",
+            "similarity": 88.13,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/5kw-solar-system-in-karachi",
+            "url_b": "/service/24v-100ah-lithium-battery",
+            "similarity": 88.13,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/10kw-solar-system-in-karachi",
+            "url_b": "/service/solar-panel-installation-in-dha-karachi",
+            "similarity": 97.5,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/10kw-solar-system-in-karachi",
+            "url_b": "/service/solar-panel-installation-in-clifton-karachi",
+            "similarity": 97,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/10kw-solar-system-in-karachi",
+            "url_b": "/service/ip-cctv-cameras",
+            "similarity": 88.05,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/10kw-solar-system-in-karachi",
+            "url_b": "/service/hd-cctv-cameras",
+            "similarity": 88.05,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/10kw-solar-system-in-karachi",
+            "url_b": "/service/12v-100ah-lithium-battery",
+            "similarity": 88.38,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/10kw-solar-system-in-karachi",
+            "url_b": "/service/24v-100ah-lithium-battery",
+            "similarity": 88.38,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/solar-panel-installation-in-dha-karachi",
+            "url_b": "/service/solar-panel-installation-in-clifton-karachi",
+            "similarity": 99.13,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/solar-panel-installation-in-dha-karachi",
+            "url_b": "/service/ip-cctv-cameras",
+            "similarity": 87.45,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/solar-panel-installation-in-dha-karachi",
+            "url_b": "/service/hd-cctv-cameras",
+            "similarity": 87.45,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/solar-panel-installation-in-dha-karachi",
+            "url_b": "/service/12v-100ah-lithium-battery",
+            "similarity": 88.18,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/solar-panel-installation-in-dha-karachi",
+            "url_b": "/service/24v-100ah-lithium-battery",
+            "similarity": 88.18,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/solar-panel-installation-in-clifton-karachi",
+            "url_b": "/service/ip-cctv-cameras",
+            "similarity": 87.68,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/solar-panel-installation-in-clifton-karachi",
+            "url_b": "/service/hd-cctv-cameras",
+            "similarity": 87.55,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/solar-panel-installation-in-clifton-karachi",
+            "url_b": "/service/12v-100ah-lithium-battery",
+            "similarity": 88.3,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/solar-panel-installation-in-clifton-karachi",
+            "url_b": "/service/24v-100ah-lithium-battery",
+            "similarity": 88.3,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/ip-cctv-cameras",
+            "url_b": "/service/hd-cctv-cameras",
+            "similarity": 99.75,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/ip-cctv-cameras",
+            "url_b": "/service/12v-100ah-lithium-battery",
+            "similarity": 88.6,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/ip-cctv-cameras",
+            "url_b": "/service/24v-100ah-lithium-battery",
+            "similarity": 88.6,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/hd-cctv-cameras",
+            "url_b": "/service/12v-100ah-lithium-battery",
+            "similarity": 88.6,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/hd-cctv-cameras",
+            "url_b": "/service/24v-100ah-lithium-battery",
+            "similarity": 88.6,
+            "risk": "HIGH (Near Duplicate)"
+        },
+        {
+            "url_a": "/service/12v-100ah-lithium-battery",
+            "url_b": "/service/24v-100ah-lithium-battery",
+            "similarity": 99.88,
+            "risk": "HIGH (Near Duplicate)"
+        }
+    ]
+}
