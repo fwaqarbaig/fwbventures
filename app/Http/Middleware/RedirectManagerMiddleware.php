@@ -28,11 +28,11 @@ class RedirectManagerMiddleware
                 $canonicalHost = substr($host, 4);
                 $scheme = $request->isSecure() ? 'https' : 'http';
 
-                return redirect()->to("{$scheme}://{$canonicalHost}".$request->getRequestUri(), 301);
+                return redirect()->away("{$scheme}://{$canonicalHost}".$request->getRequestUri(), 301);
             }
 
             if (! $request->isSecure()) {
-                return redirect()->secure($request->getRequestUri(), 301);
+                return redirect()->away('https://'.$host.$request->getRequestUri(), 301);
             }
         }
 

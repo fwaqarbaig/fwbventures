@@ -10,17 +10,11 @@ ServerSignature Off
 <IfModule mod_rewrite.c>
     RewriteEngine On
 
-    # Canonical: Enforce www (aligns with app canonical domain https://www.fwbventures.com)
-    RewriteCond %{HTTP_HOST} ^fwbventures\.com$ [NC]
-    RewriteRule ^ https://www.fwbventures.com%{REQUEST_URI} [R=301,L]
-
-    # Canonical: Enforce HTTPS (excluding local development environments)
-    RewriteCond %{HTTPS} !=on
-    RewriteCond %{HTTP_HOST} !^(localhost|127\.0\.0\.1)(:\d+)?$ [NC]
-    RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+    # Note: Canonical HTTPS and non-www domain redirection is handled at root .htaccess
+    # to prevent leaking /public/ in the browser address bar during directory rewrites.
 
     # 2. Block direct execution of any script or PHP file inside public subfolders
-    RewriteCond %{REQUEST_URI} ^/(storage|images|uploads|media|css|js|build)/.*(?i)\.(php|phtml|php[0-9]|phps|phar|sh|cgi|py|exe|pl|bat|cmd|jsp|asp|aspx)$
+    RewriteCond %{REQUEST_URI} ^/(?:public/)?(storage|images|uploads|media|css|js|build)/.*(?i)\.(php|phtml|php[0-9]|phps|phar|sh|cgi|py|exe|pl|bat|cmd|jsp|asp|aspx)$
     RewriteRule .* - [F,L]
 
     # 3. Block malicious HTTP request methods
@@ -47,6 +41,8 @@ ServerSignature Off
     RewriteRule .* - [E=HTTP_X_XSRF_TOKEN:%{HTTP:X-XSRF-Token}]
 
     # 8. Redirect Trailing Slashes If Not A Folder...
+    # (Skip redirect if path starts with /public/ to avoid redirect loops)
+    RewriteCond %{REQUEST_URI} !^/public/
     RewriteCond %{REQUEST_FILENAME} !-d
     RewriteCond %{REQUEST_URI} (.+)/$
     RewriteRule ^ %1 [L,R=301]

@@ -31,6 +31,7 @@ use App\Models\Post;
 use App\Models\Product;
 use App\Models\Service;
 use App\Models\User;
+use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -81,9 +82,23 @@ Route::get('/locations', fn () => redirect('/service/solar-installation-areas-ka
 Route::redirect('/locations/al-ain', '/service/solar-installation-areas-karachi', 301);
 Route::get('/locations/{city}', fn () => redirect('/service/solar-installation-areas-karachi', 301))->name('locations.show');
 
-// Strip /public/ prefix if accessed directly
-Route::any('/public/{any}', fn (string $any) => redirect('/'.$any, 301))->where('any', '.*');
-Route::redirect('/public', '/', 301);
+// Strip any /public/ prefix if accessed directly
+Route::any('/public/{any}', function (Request $request, string $any) {
+    $cleanPath = trim((string) preg_replace('#^(?:public/)+#i', '', $any), '/');
+    $target = $cleanPath === '' ? '/' : '/'.$cleanPath;
+    $query = $request->getQueryString();
+    if ($query) {
+        $target .= '?'.$query;
+    }
+
+    return redirect()->away($request->getSchemeAndHttpHost().$target, 301);
+})->where('any', '.*');
+Route::get('/public', function (Request $request) {
+    $query = $request->getQueryString();
+    $target = $query ? '/?'.$query : '/';
+
+    return redirect()->away($request->getSchemeAndHttpHost().$target, 301);
+});
 
 // Blog & Content Routes
 Route::get('/blog', [BlogController::class, 'index'])->name('blog.index');
